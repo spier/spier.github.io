@@ -29,9 +29,9 @@ To top things, I can host the whole thing at [GitHub Pages](http://pages.github.
 
 # Almost Like a Longer Tweet
 
-I find myself using twitter fairly frequently lately. It is quite a useful tool for a bunch of different purposes but I have to agree with [Dave Winer][davewiner] when it comes to the arbitrary 140 character: It is useless. Sometimes you just need to say a little bit more :)
+I find myself using twitter fairly frequently lately. It is quite a useful tool for a bunch of different purposes but I have to agree with [Dave Winer][davewiner] when it comes to the arbitrary 140 character limit: It is useless. Sometimes you just need to say a little bit more :)
 
-So for all things that just break the 140 characters by a bit, I will be using this blog as well, and then point people to my posts if I consider them relevant enough.
+So for all things that just break the 140 characters by a bit, I will be using this blog as well, and then point people to my posts from twitter, if I consider them relevant enough.
 
 # Idea Curation
 
