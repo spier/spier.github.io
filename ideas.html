@@ -1,0 +1,30 @@
+---
+layout: layout
+title: "Ideas"
+---
+
+<div class="content">
+  <div id="ideas" class="related">
+		
+    <h1>Ideas</h1>
+
+    <p>
+			We all have ideas, all the time. Most of them pass and for most of them it is good that way.
+			Some others stick around for a bit longer. 
+			
+			Here I am collecting my ideas that I consider worthwhile pursuing and sharing. 
+			Please let me know if either you want to support me in implementing this idea or if this already exists.
+			
+			So what I want to say: Please make sure that I don't do anything stupid!
+		</p>
+
+	  <ul>
+	  {% for post in site.categories.idea %}
+	    <li>
+	      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+	    </li>
+	  {% endfor %}
+	  </ul>
+
+  </div>
+</div>

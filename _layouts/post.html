@@ -1,0 +1,55 @@
+---
+layout: layout
+---
+
+<div class="content">
+  <div id="post">
+    {% include post_header.html %}
+    {{ content }}
+  </div>
+
+<!-- 
+	<div id="hn">
+    <h3>Mandatory Federal Bread Notice</h3>
+    <p>If you <a href="http://twitter.com/holman">follow me on Twitter</a> you will be startled to discover that you have transformed into a handsome loaf of bread.</p>
+  </div> 
+-->
+
+  {% if page.hn %}
+  <div id="hn">
+    <h3>Comments</h3>
+    You can discuss this post on its <a href="{{ page.hn }}">Hacker News submission</a>.
+  </div>
+  {% endif %}
+
+  <div id="boastful">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="sebastianspier">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    <h3>Twitter Reactions</h3>
+ </div>
+
+	
+	<!-- disqus comments -->
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+	    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+	    var disqus_shortname = 'spier'; // required: replace example with your forum shortname
+	
+			var disqus_developer = 1;
+
+	    // The following are highly recommended additional parameters. Remove the slashes in front to use.
+	    // var disqus_identifier = 'unique_dynamic_id_1234';
+	    // var disqus_url = 'http://example.com/permalink-to-page.html';
+
+	    /* * * DON'T EDIT BELOW THIS LINE * * */
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+</div>
