@@ -14,7 +14,9 @@ An implementation of this that I like much better has been done by [Michael Dono
 Just Double-tap the Shift key and paragraph symbols ¶ will appear next to each paragraph. Click any paragraph symbol to generate a link to that paragraph, or click on sentences to highlight them. The link will appear in your browser’s address bar and you can use these modified URLs for sharing. Pretty cool!
 
 # Demo 
-For example you can <a href="http://spier.github.com/2011/06/adding-some-emphasis/#h[FeyCtU,1" target="_blank">open this article</a> with a section being highlighted. (needs to open in a new window for it to work. sorry!) Check the URL!
+For example you can <a href="http://spier.github.com/2011/06/adding-some-emphasis/#h[FeyCtU,1]" target="_blank">open this article</a> with a section being highlighted. (needs to open in a new window for it to work. sorry!) Check the URL!
+
+For example you can <a href="http://spier.github.com/2011/06/adding-some-emphasis/#h[FeyCtU,1]" target="_self">reload this article</a>  with a section being highlighted. (needs to open in a new window for it to work. sorry!) Check the URL!
 
 I have already used this in a recent pet project [springerquotes][springerquotes] that I will probably write about more soon.
 
