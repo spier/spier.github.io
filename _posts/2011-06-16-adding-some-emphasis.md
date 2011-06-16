@@ -9,7 +9,7 @@ This is a concept I remember being described by [Dave Winer](http://scripting.co
 
 An implementation of this that I like much better has been done by [Michael Donohoe](http://twitter.com/donohoe) for the New York Times. He implemented a javascript library called [Emphasis](http://open.blogs.nytimes.com/2011/01/10/emphasis-update-and-source/), the [source code](https://github.com/NYTimes/Emphasis) is on github. It is pretty much a plug-and-play solution, you just have to specify with an CSS selector which paragraphs from your articles should be selectable.
 
-# Try it now
+# How-To
 
 Just Double-tap the Shift key and paragraph symbols ¶ will appear next to each paragraph. Click any paragraph symbol to generate a link to that paragraph, or click on sentences to highlight them. The link will appear in your browser’s address bar and you can use these modified URLs for sharing. Pretty cool!
 
