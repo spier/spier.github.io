@@ -16,8 +16,6 @@ Just Double-tap the Shift key and paragraph symbols ¶ will appear next to each 
 # Demo 
 For example you can <a href="http://spier.github.com/2011/06/adding-some-emphasis/#h[FeyCtU,1]" target="_blank">open this article</a> with a section being highlighted. (needs to open in a new window for it to work. sorry!) Check the URL!
 
-For example you can <a href="http://spier.github.com/2011/06/adding-some-emphasis/#h[FeyCtU,1]" target="_self">reload this article</a>  with a section being highlighted. (needs to open in a new window for it to work. sorry!) Check the URL!
-
 I have already used this in a recent pet project [springerquotes][springerquotes] that I will probably write about more soon.
 
 [springerquotes]: http://springerquotes.heroku.com/
