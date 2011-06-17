@@ -8,3 +8,4 @@ paginate: 10
 
 # my own. the trailing slash is needed
 base_url: http://spier.github.com/
+feedburner_url: http://feeds.feedburner.com/spier
