@@ -92,6 +92,7 @@ h3{
   text-transform: uppercase;
   margin: 10px 0 20px 0;
 }
+
 #header #seb{
   font-size: 17px;
   font-weight: bold;
@@ -107,6 +108,7 @@ h3{
   letter-spacing: 1px;
   color: #000;
 }
+
 #header .site{
 }
 #header .site img{
@@ -203,12 +205,11 @@ h3{
   font-style: normal;
 }
 
-/*
- 
+/* 
  TALKS
+*/
 
- */
-#talks h2{
+/*#talks h2{
   font-size: 18px;
   font-family: Helvetica, sans-serif;
   padding: 5px 7px;
@@ -247,13 +248,12 @@ h3{
   margin-top: 10px;
   border-radius: none;
   box-shadow: none;
-}
+}*/
 
 /*
- 
  SCREENCASTS
+*/
 
- */
 #screencasts h2{
   margin-bottom: 0;
 }
@@ -264,20 +264,9 @@ h3{
 }
 
 /*
- 
- HACKER NEWS MAD KARMA
-
- */
-#hn{
-  margin: 30px 15px;
-}
-
-
-/*
- 
  BOASTFUL
+*/
 
- */
 #boastful{
   margin: 30px 15px 7em 15px;
   text-shadow: 1px 1px 0 #fff;
@@ -330,3 +319,61 @@ h3{
   font-size: 13px;
   font-weight: bold;
 }
+
+/* 
+ 	CV TABLE 
+*/
+
+#cv {
+	width: 100%;
+	border: 1px;
+}
+
+#cv * {
+	margin: 0;
+	padding: 0;
+}
+
+#cv tr td {
+	vertical-align: top;
+	border-top: 1px solid #eee;
+}
+
+#cv tr:first-child td {
+	vertical-align: top;
+/*	border-top: 1px solid #eee;*/
+	border: none;
+}
+
+#cv tr td + td {
+	padding-left:	20px;
+	padding-bottom:	10px;
+}
+
+#cv img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 610px;
+  -webkit-border-radius: 8px;
+  -webkit-box-shadow: 0px 0px 10px #555;
+}
+
+#cv img.noborder {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 610px;
+  -webkit-border-radius: 0;
+  -webkit-box-shadow: none;
+}
+
+#cv p{
+	font-size: 18px;
+	line-height: 1.3em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+
+

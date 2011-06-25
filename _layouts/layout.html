@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <title>{{ page.title }}</title>
-  <meta name="author" content="Sebastian Spier" />
-  <meta name="description" content="Writings, ideas, and random musings by Sebastian Spier." /> 
+  <meta name="author" content="{{ site.author }}" />
+  <meta name="description" content="Writings, ideas, and random musings by {{ site.author }}." /> 
 
   <link rel="alternate" type="application/rss+xml" href="{{ site.feedburner_url }}" />
   <link rel="stylesheet" href="/css/styles.css" type="text/css" media="screen, projection" />
@@ -28,7 +28,9 @@
 
 <div id="header">
   <a href="/">
-    <img src="/images/small_dog_normal.png" class="avatar" />
+    <!-- <img src="/images/small_dog_normal.png" class="avatar" /> -->
+		<!-- <img src="/images/sebastian_spier_small3.png" class="avatar" /> -->
+		<img src="/images/sebastian/sebastian_spier_medium.png" alt="Sebastian Spier" width="75" height="75" class="avatar" />
   </a>
 
   <div id="me">
@@ -53,6 +55,7 @@
 
   <div id="sections">
     <div><a href="/about">about</a></div>
+		<!-- <div><a href="/projects.html">projects</a></div> -->
 		<div><a href="/ideas">ideas</a></div>
   </div>
 
@@ -65,7 +68,6 @@
 
 
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1782093-8']);
   _gaq.push(['_trackPageview']);
@@ -75,7 +77,6 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
 
 </body>

@@ -1,0 +1,97 @@
+---
+layout: static_page
+title: "About Sebastian Spier"
+---
+
+![Sebastian Spier](/images/sebastian/sebastian_spier_multi.png "Sebastian Spier")
+
+A bit about myself: I am 30-something German, with a passion for open source, food, coding, people, basketball, and excellent coffee. Some of those passions work better in combination than others, while their prioritization changes by the time of the day.
+
+I am working in the lovely city of Budapest (Hungary) where I am leading the Research and Development team of [Meltwater Group][meltwater]. My team conducts focused research to solve complex technology problems and to work on innovative concepts that require creative use of current technologies or early adoption of new paradigms.
+
+This place on the web is quite obviously my own, so views expressed here are my own as well and have nothing to do with my employer.
+
+# Contact
+
+The best way to contact me is [Twitter][].
+
+[Twitter]: http://twitter.com/sebastianspier
+[meltwater]: http://www.meltwater.com
+
+
+# Some places I have been
+
+<table id="cv" cellpadding="0" cellspacing="0">	
+	<tr>
+		<td>
+			<a href="http://www.meltwater.com" target="_blank"><br>
+				<img width="128" height="74" border="0" src="/images/employers/meltwater_s.png" alt=""></a>
+		</td>
+		<td>
+			<p>
+				<b>Managing Director</b><br>
+				Meltwater Research & Development, Budapest (Hungary)<br>
+			</p>
+			Established Meltwater's new research entity in Hungary. Leading a team that conducts industrial research and development of prototypes to analyze business cases. Includes productization of prototypes, involved in all parts of the software development lifecycle. International setup in collaboration between San Francisco, Budapest, and Jaipur. Collaboration with outsourced team in India.
+		</td>
+	</tr>	
+	
+	<tr>
+		<td>
+			<a href="http://www.meltwater.org" target="_blank"><br>
+				<img width="128" height="74" border="0" src="/images/employers/mest_s.png" alt=""></a>
+		</td>
+		<td>
+			<p>
+				<b>Teaching Fellow</b><br>
+				Meltwater Entrepreneurial School of Technology, Accra (Ghana)
+			</p>
+			In Ghana I was part of the founding faculty of the Meltwater Entrepreneurial School of Technology (MEST). MEST's goal is to educate entrepreneurs-in-training (EIT's) to become technologically skilled business developers, with the ability to start new software companies and generate wealth locally. My major responsibility was to prepare and oversee the technical project work of the EITs. I was also their direct contact for technical consultancies regarding software development, database modeling, PHP, Java, Drupal, and Web Design. 
+		</td>
+	</tr>	
+	
+	<tr>
+		<td>
+			<a href="http://www.dai-labor.de" target="_blank"><br>
+				<img width="128" height="74" border="0" src="/images/employers/ws_dai-labor.png" alt="Website DAI Labor, TU Berlin"></a>
+		</td>
+		<td>
+			<p>
+				<b>Researcher</b><br>
+				DAI Labs, Technical University Berlin (Germany)
+			</p>			
+			Scientific research in the field of information retrieval and information clustering. Also involved in extending the Personal Information Agent (PIA), developed by DAI Labs. During my master thesis I developed a recommendation engine for TV shows based on user's preferences. Mashup of heterogenous data sources to enrich the original EPG data (movie databases, web crawlers). The title of my master thesis was "Semantic Unification of EPG and other Content Providers to a Telecast Ontology".
+		</td>
+	</tr>
+	
+<tr>
+	<td>
+		<a href="http://www.digital-spirit.de" target="_blank"><br>
+			<img src="/images/employers/ws_digital_spirit.png" alt="Website digital spirit"><br>
+		</a>
+	</td>
+	<td>
+		<p>
+			<b>Developer</b><br>
+			digital spirit, Berlin (Germany)
+		</p>		
+		Implementation of e-Learning Software for the english speaking school market, using C#. Customers were companies like Wolters Kluwer/USA and Nelson Thornes/GB.
+	</td>
+</tr>
+	<tr>
+		<td>
+			<a href="http://swt.cs.tu-berlin.de" target="_blank"><br>
+				<img src="/images/employers/ws_tu-swt.png" alt="Website SWT, TU-Berlin"><br>
+			</a>
+		</td>
+		<td>
+			<p>
+				<b>Tutor</b><br>
+				Software Development Department, TU Berlin (Germany)
+			</p>
+				Tutoring small groups of 15-30 students in topics like functional programing, algorithms and data structures
+		</td>
+	</tr>
+</table>
+
+

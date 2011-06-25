@@ -6,6 +6,14 @@ rdiscount:
   extensions: [smart]
 paginate: 10
 
-# my own. the trailing slash is needed
+
+# -----------------
+# my own config variables. 
+# -----------------
+    
+# the trailing slash is needed
 base_url: http://spier.github.com/
+# URL to atom feed
 feedburner_url: http://feeds.feedburner.com/spier
+# name of the author
+author: Sebastian Spier
