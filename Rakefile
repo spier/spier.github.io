@@ -8,11 +8,18 @@ task :new do
   name = STDIN.gets.chomp
   
   # create filename
-  filename = name.downcase.gsub(/\s/,"-")
-  FileUtils.touch("drafts/#{filename}.md")
+  filename = Time.now.strftime("%Y-%m-%d") + "-" + name.downcase.gsub(/\s/,"-")
+  filename = "drafts/#{filename}.md"
+  
+  if File.exists? filename
+    puts "File aready exists: #{filename}. Exiting."
+    exit
+  end
+  
+  FileUtils.touch(filename)
 
   # enter layout heading
-  open("drafts/#{name}.md", 'a') do |f|
+  open(filename, 'a') do |f|
     f.puts "---"
     f.puts "layout: post"
     f.puts "title: \"DRAFT: #{name}\""
