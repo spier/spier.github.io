@@ -46,7 +46,7 @@ This application was developed during the <a href="http://dev.springer.com">Spri
 			<p>
 				<a href="http://fantasy-rotation.de" target="_blank">FANtasy Rotation</a>
 			</p>
-			I developed FANtasy Rotation with my good friend Helge back in 2006 and we have been maintaining it ever since. It is a game for the German basketball club <a href="http://www.albaberlin.de">Alba Berlin</a>, which allows to users to make bets on how much playing time each individual player will get for the upcoming games. The site also has a vast collection of statistics and news reaching back to 2005, which is actually even more popular than the game itself :-).
+			I developed FANtasy Rotation with my good friend Helge back in 2006 and we have been maintaining it ever since. It is a game for the German basketball club <a href="http://www.albaberlin.de">Alba Berlin</a>, which allows to users to make bets on how much playing time each individual player will get for the upcoming games. The site also has a vast collection of statistics and news reaching back to 2005, which is actually even more popular than the game itself :-)
 		</td>
 	</tr>	
 	

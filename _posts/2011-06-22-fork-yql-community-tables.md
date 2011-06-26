@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Fork YQL Community Tables?"
+title: "Why Fork the YQL Community Tables?"
 categories: [yql]
 ---
 
