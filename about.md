@@ -5,9 +5,9 @@ title: "About Sebastian Spier"
 
 ![Sebastian Spier](/images/sebastian/sebastian_spier_multi.png "Sebastian Spier")
 
-A bit about myself: I am 30-something German, with a passion for open source, food, coding, people, basketball, and excellent coffee. Some of those passions work better in combination than others, while their prioritization changes by the time of the day.
+I am 30-something German, with a passion for open source development, food, coding, people, basketball, and excellent coffee. Some of those passions work better in combination than others, while their prioritization changes by the time of the day. Unfortunately almost all are combinable with coffee, which makes me dring a lot of it :)
 
-I am working in the lovely city of Budapest (Hungary) where I am leading the Research and Development team of [Meltwater Group][meltwater]. My team conducts focused research to solve complex technology problems and to work on innovative concepts that require creative use of current technologies or early adoption of new paradigms.
+I am working in the lovely city of [Budapest][] (Hungary) where I am leading the Research and Development team of [Meltwater Group][meltwater]. Our research objective is to explore and solve complex technology problems in the fields of information retrieval, natural language processing, big data, and sentiment detection, just to name a few. Our day to day work requires creative use of current technologies or early adoption of new paradigms which makes it a lot of fun!
 
 This place on the web is quite obviously my own, so views expressed here are my own as well and have nothing to do with my employer.
 
@@ -17,6 +17,7 @@ The best way to contact me is [Twitter][].
 
 [Twitter]: http://twitter.com/sebastianspier
 [meltwater]: http://www.meltwater.com
+[Budapest]: http://maps.google.com/maps?q=Budapest&hl=en&sll=37.0625,-95.677068&sspn=56.112526,105.996094&t=h&z=11
 
 
 # Some places I have been
@@ -32,7 +33,7 @@ The best way to contact me is [Twitter][].
 				<b>Managing Director</b><br>
 				Meltwater Research & Development, Budapest (Hungary)<br>
 			</p>
-			Established Meltwater's new research entity in Hungary. Leading a team that conducts industrial research and development of prototypes to analyze business cases. Includes productization of prototypes, involved in all parts of the software development lifecycle. International setup in collaboration between San Francisco, Budapest, and Jaipur. Collaboration with outsourced team in India.
+			After incorporating Meltwater in Hungary in 2009, I have been hiring a team of outstanding individuals with years of software development and research experience, to help Meltwater tackle the most challenging research problems in our space. The team that I am leading conducts industrial research and proof-of-concept development. We are also involved in the productization of prototypes, including all parts of the software development life cycle. We are working in a highly international setup with collaborations between San Francisco, Budapest, and outsourcing partners in India.
 		</td>
 	</tr>	
 	

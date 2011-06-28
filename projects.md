@@ -1,11 +1,34 @@
 ---
 layout: static_page
-title: "Projects & Code"
+title: "Code & Projects"
 ---
+
+# Code
+
+The majority of my code I have open-sourced can be found at my [github.com/spier](https://github.com/spier). Here I am also listing some of the more prominent code repositories.
+
+<table id="cv" cellpadding="0" cellspacing="0">	
+	
+	<tr>
+		<td>
+			<a href="https://github.com/spier/yql_worldbank" target="_blank">
+				<img src="/images/projects/worldbank_yql.png" alt=""></a>
+		</td>
+		<td>
+			<p>
+				<a href="https://github.com/spier/yql_worldbank" target="_blank">World Bank Competition - YQL Tables</a>
+			</p>
+			During the <a href="http://appsfordevelopment.challengepost.com/">Apps for Development</a> contest of the World Bank I created this YQL datatables to make working with the World bank Data API easier. The <a href="https://github.com/spier/yql_worldbank" target="_blank">sources</a> are hosted at github and I also contributed them to the official <a href="http://www.datatables.org" target="_blank">YQL Community Tables</a>.
+		</td>
+	</tr>	
+
+</table>
+
+
+# Projects
 
 These are some of my pet projects that I have been working on in my spare time. The purpose of most of them was to explore new technologies and learn new things. Some of them might not be online anymore at the time of viewing this page.
 
-# Projects
 
 <table id="cv" cellpadding="0" cellspacing="0">	
 	<tr>
@@ -52,7 +75,7 @@ This application was developed during the <a href="http://dev.springer.com">Spri
 	
 	<tr>
 		<td>
-					<img class="noborder" src="/images/projects/kneipenguide_s.png" alt="">
+				<img src="/images/projects/kneipenguide_s.png" alt="">
 		</td>
 		<td>
 			<p>
@@ -65,9 +88,7 @@ This application was developed during the <a href="http://dev.springer.com">Spri
 </table>
 
 
-# Code
 
-I might list some more prominent code repositories here in the future, but for the time being please refer to my [github space](https://github.com/spier) for some of the code that I have open-sourced.
 
 
 
