@@ -16,7 +16,7 @@ Wherever possible I am using my own twitter handle "sebastianspier" to show how 
 
 ##[Klout][klout]
 
-![Klout](http://f.cl.ly/items/3c0t1N2k3F313z0E0T34/Picture%201.png "My Klout Profile")
+![Klout](http://f.cl.ly/items/3P153H292g08100N0G1N/sebastianspier_klout.png "My Klout Profile")
 
 Even when you are not a Klout user but are using Twitter, you will probably already have a profile on Klout e.g. this is [my Klout profile][]. You can see your overall Klout Score, the *Klout Class* assigned to you (in my case "Conversationalist"), and some people that you are apparently influencing. To get more information, you need to sign in with either your Twitter of Facebook login. (I have not done this, so cannot make any statements about the functionality gained by doing so.) 
 
@@ -54,7 +54,7 @@ The dataset returned by the Klout API looks like this:
 
 ##[PeerIndex][peerindex]
 
-![My PeerIndex Profile](http://f.cl.ly/items/2a3b1h0d1R1z0i0c3T0W/Picture%202.png "My PeerIndex Profile")
+![My PeerIndex Profile](http://f.cl.ly/items/3P153H292g08100N0G1N/sebastianspier_peerindex.png "My PeerIndex Profile")
 
 [PeerIndex][peerindex] describes its score as "a relative measure of your online authority. This score reflects the impact of your online activities, and the extent to which you have built up social and reputational capital on the web."
 
@@ -85,7 +85,7 @@ The dataset returned by the PeerIndex API looks like this:
 
 ## Topsy
 
-![My Topsy Profile](http://f.cl.ly/items/2a1z1H1q2i1M472K2B0g/sebastianspier_topsy.png)
+![My Topsy Profile](http://f.cl.ly/items/3P153H292g08100N0G1N/sebastianspier_topsy.png)
 
 Topsy is a real-time search search engine and rather has ranking functionality as an auxiliary service among others. On 2010/08/24 Topsy [stated][topsy_v2] that they are "now the largest searchable index of content posted on Twitter" with more than 5 billion tweets and 2.5 billion links in their index. In their article [Influence: The Social Web Currency][topsy_influence] the Topsy team explain their definition of *influence*:
 
@@ -117,7 +117,7 @@ Learning by doing!</description>
 
 ## Tweet Grader
 
-![My Tweet Grader Profile](http://f.cl.ly/items/2a1z1H1q2i1M472K2B0g/sebastianspier_tweetgrader.png)
+![My Tweet Grader Profile](http://f.cl.ly/items/3P153H292g08100N0G1N/sebastianspier_tweetgrader.png)
 
 The last post from the [graderblog](http://graderblog.grader.com) is from Nov 17, 2009, so I am not so sure how active Tweet Grader (aka Twitter Grader) is currently being developed. For the sake of comparison to the other services I am still listing them here. 
 
