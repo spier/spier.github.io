@@ -19,7 +19,7 @@
       formatted +=   '</a>'
       formatted +=   '<div class="boastful_pointer"></div>'
       formatted +=   '<div class="boastful_tweet" style="display: none">'
-      formatted +=     '<div class="boastful_handle">@'+tweetback.author.url.split('/').pop()+'</div>'
+      formatted +=     '<div class="boastful_handle">@'+tweetback.author.url.split('/').pop()+ ' (' + tweetback.date_alpha + ')</div>'
       formatted +=     '<div class="boastful_content">'+tweetback.content+'</div>'
       formatted +=   '</div>'
       formatted += '</div>'
