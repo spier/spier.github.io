@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your Social Influence in Numbers"
+title: "Your Social Media Influence in Numbers"
 categories: []
 ---
 
