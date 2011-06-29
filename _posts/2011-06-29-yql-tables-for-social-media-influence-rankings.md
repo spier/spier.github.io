@@ -4,7 +4,7 @@ title: "YQL Tables for Social Media Influence Rankings"
 categories: [yql]
 ---
 
-While evaluating different available services for "Social Media Influence Ranking", I also implemented [YQL][yql] data tables for them. Doing that has these two major advantages:
+While evaluating different available services for "Social Media Influence Ranking", I also implemented [YQL][yql] data tables for them. The services I looked at were [PeerIndex][peerindex], [Klout][klout], and [Topsy][topsy]. Implementing the YQL tables has these two major benefits for me:
 
 * When creating the open data table, you have to take a detailed look at the API you are mapping to, and hence read the documentation very thoroughly. That in itself is a good exercise to really understand the nature of the input and output data.
 * For assessing data returned by an API, YQL is my absolute go-to-tool. It makes it really easy to do a lot of ad hoc queries and play with the returned data. Also feeding data from one API to the other is ist trivial. This way the exploration of the data is less time consuming and does not require any scripting. 
@@ -54,7 +54,7 @@ SELECT * FROM topsy.authorinfo WHERE url="http://twitter.com/barackobama"
 
 # Contributing to the [YQL Community][yql_open_data_tables]
 
-I sent pull request for the YQL tables for all three services to the the official [YQL Community Tables][yql_open_data_tables] repository on [github][yql_open_data_tables_github]. The PeerIndex tables already got included, which makes them available for a broader audience. Integration of Klout and Topsy are pending.
+I sent pull request for the YQL tables for all three services to the official [YQL Community Tables][yql_open_data_tables] repository on [github][yql_open_data_tables_github]. The PeerIndex tables already got included, which makes them available for a broader audience. Integration of Klout and Topsy are pending.
 
 So have fun with [YQL][yql] and your experiments with Social Media Influence Rankings.  
 
