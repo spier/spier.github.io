@@ -26,7 +26,7 @@ SELECT * FROM peerindex.profile WHERE id='sebastianspier';
 
 # [Klout][klout]
 
-Klout has only a handful of API points, so creating the YQl tables for them did not take too much time either. You can query information about a user's Klout socre but also who he is influencing or who is influenced by him.
+Klout has only a handful of API points, so creating the YQl tables for them did not take too much time either. You can query information about a user's Klout score but also who he is influencing and who is influencing him.
 
 So get yourself a [Klout API key](http://developer.klout.com/) and then [try it out in the YQL Console](http://yhoo.it/jU6pWh).
 
@@ -41,7 +41,7 @@ SELECT * FROM klout.user.show WHERE users='sebastianspier'
 
 # [Topsy][topsy] 
 
-Topsy has way more API endpoints, so I ended up with a total of 17 tables. Multiple of them have a fairly repetitive structure though, which makes using them more comfortable.
+Topsy has way more API endpoints, so I ended up with a total of YQL 17 tables. Multiple of them have a fairly repetitive structure though, which makes using them more comfortable.
 
 Topsy does not require an API key, so you can [try it out in the YQL Console](http://yhoo.it/lTc3Bs) right away.
 
@@ -54,14 +54,15 @@ SELECT * FROM topsy.authorinfo WHERE url="http://twitter.com/barackobama"
 
 # Contributing to the [YQL Community][yql_open_data_tables]
 
-I sent pull request for the YQL tables for all three services to the the official [YQL Community Tables][yql_open_data_tables] repository on github. The PeerIndex tables already got included, which makes them available for a broader audience. Integration of Klout and Topsy are pending.
+I sent pull request for the YQL tables for all three services to the the official [YQL Community Tables][yql_open_data_tables] repository on [github][yql_open_data_tables_github]. The PeerIndex tables already got included, which makes them available for a broader audience. Integration of Klout and Topsy are pending.
 
-So have fun with [YQL][yql] the your experiments with Social Media Influence Ranking.  
+So have fun with [YQL][yql] and your experiments with Social Media Influence Rankings.  
 
 
 
 [yql]: http://developer.yahoo.com/yql/
 [yql_open_data_tables]: http://www.datatables.org
+[yql_open_data_tables_github]: https://github.com/yql/yql-tables
 
 [klout]: http://klout.com
 [peerindex]: http://www.peerindex.net
