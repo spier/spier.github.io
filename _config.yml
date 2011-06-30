@@ -12,8 +12,11 @@ paginate: 10
 # -----------------
     
 # the trailing slash is needed
-base_url: http://spier.github.com/
-# URL to atom feed
+# base_url: http://spier.github.com/
+base_url: http://spier.hu/
+
+# URL to atom feed (registered at feedburner.com)
 feedburner_url: http://feeds.feedburner.com/spier
+
 # name of the author
 author: Sebastian Spier

@@ -5,7 +5,7 @@ title: "About Sebastian Spier"
 
 ![Sebastian Spier](/images/sebastian/sebastian_spier_multi.png "Sebastian Spier")
 
-I am 30-something German, with a passion for open source development, food, coding, people, basketball, and excellent coffee. Some of those passions work better in combination than others, while their prioritization changes by the time of the day. Unfortunately almost all are combinable with coffee, which makes me dring a lot of it :)
+I am 30-something German, with a passion for open source development, food, coding, people, basketball, and excellent coffee. Some of those passions work better in combination than others, while their prioritization changes by the time of the day. Unfortunately almost all are combinable with coffee, which makes me drink a lot of it :)
 
 I am working in the lovely city of [Budapest][] (Hungary) where I am leading the Research and Development team of [Meltwater Group][meltwater]. Our research objective is to explore and solve complex technology problems in the fields of information retrieval, natural language processing, big data, and sentiment detection, just to name a few. Our day to day work requires creative use of current technologies or early adoption of new paradigms which makes it a lot of fun!
 
@@ -94,5 +94,3 @@ The best way to contact me is [Twitter][].
 		</td>
 	</tr>
 </table>
-
-
