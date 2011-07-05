@@ -1,14 +1,18 @@
 body{
-  font-family: Georgia, serif;
-  margin: 0;
-  -webkit-font-smoothing: antialiased;
+	font-family: Georgia, serif;
+	margin: 0;
+	margin-top: 30px;
+	-webkit-font-smoothing: antialiased;
 }
+
 a{
   color: #227CE8;
 }
+
 a:hover{
   text-decoration: none;
 }
+
 p code, li code{
   background-color: #F9F9F9;
   border: 1px solid #eee;
@@ -24,9 +28,10 @@ hr{
   margin: 2em 1em;
 }
 .content{
-  margin-left: 160px;
-  width: 650px;
-  margin-bottom: 50px;
+	margin-left: 200px;
+	width: 650px;
+	margin-bottom: 50px;
+/*	top: 30px;*/
 }
 .related{
   margin-top: 10px;
@@ -73,17 +78,27 @@ h3{
 }
 
 #header{
-  position: fixed;
-  left: 15px;
-  top: 15px;
-  width: 160px;
-  font-family: Helvetica, sans-serif;
+	position: fixed;
+	left: 20px;
+	/*  top: 30px;*/
+	width: 160px;
+	font-family: Helvetica, sans-serif;
+/*	border: 1px solid black;*/
 }
+
+#header *{
+	text-align: center;
+}
+
+#header #logo{
+	text-align: center;
+}
+
 #header .avatar{
-  border: 1px solid #fff;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -webkit-box-shadow: 0px 0px 4px #555;
+	border: 1px solid #fff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-box-shadow: 0px 0px 4px #555;
 }
 #header a{
   text-decoration: none;
@@ -122,14 +137,15 @@ h3{
   letter-spacing: 1px;
 }
 #header #sections{
-  margin: 25px 0 0 -15px;
+	margin-top:25px;
+/*  margin: 25px 0 0 -20px;*/
 }
 #header #sections div{
   margin-bottom: 7px;
 }
 #header #sections a{
   background-color: #000;
-  padding: 3px 5px;
+  padding: 3px 10px;
   color: #fff;
   font-weight: bold;
   font-size: 12px;
