@@ -41,7 +41,7 @@ These are some of my pet projects that I have been working on in my spare time. 
 				<a href="http://springerquotes.heroku.com" target="_blank">Springer Quotes</a>
 			</p>
 			
-This application was developed during the <a href="http://dev.springer.com">Springer API Challenge</a> in 2011. It was a great learning experience in terms of working with heroku, ruby, and the Springer API.
+With this application I won the 1. Prize at the <a href="http://dev.springer.com">Springer API Challenge</a> in 2011. It was a great learning experience in terms of working with heroku, ruby, and the Springer API.
 
 			Springer Quotes let's you search more than 80 thousand articles from Springer's open access journals. When you find a particularly interesting article you can create quotes from paragraphs or individual sentences. These quotes can be used to point fellow resources to specific sections of articles or to reference these quotes within your own scientific work.
 		</td>
