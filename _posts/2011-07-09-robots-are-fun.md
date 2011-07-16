@@ -66,4 +66,4 @@ So now you will see a new set of robots appear every time you reload this page. 
 
 Why? Well first of all it is Saturday ... and then most importantly this was fun. The same question could be asked for [ROBOHASH](http://robohash.org/) as well. Why do they do what they do? They give some hints about the **Why** on their website but how does that really matter? It is the Internet, people do crazy things all the time and some of these things are a lot of fun :)
 
-If you are still not happy without the **Why**, you can ask the author [@robiebasak](http://twitter.com/robiebasak) directly.
+If you are still not happy without the **Why**, you can ask the author directly at [@Robohash](https://twitter.com/#!/Robohash).
