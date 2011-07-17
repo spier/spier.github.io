@@ -73,12 +73,3 @@ new TWTR.Widget({
   });
 </script>
 
-
-## [bbjeff @ Delicious](http://www.delicious.com/bbjeff)
-	
-<ul class="delicious-links">
-  {% delicious username:bbjeff count:10 ttl:3600 %}
-  <li><p><a href="{{ item.link }}" title="{{ item.description }}" rel="external">{{ item.title }}</a></p></li>
-  {% enddelicious %}
-</ul>
-
