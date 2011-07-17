@@ -24,7 +24,6 @@ The majority of my code I have open-sourced can be found at my [github.com/spier
 
 </table>
 
-
 # Projects
 
 These are some of my pet projects that I have been working on in my spare time. The purpose of most of them was to explore new technologies and learn new things. Some of them might not be online anymore at the time of viewing this page.
