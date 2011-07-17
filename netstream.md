@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: static_page
 title: "Sebastian Spier - Netstream"
 ---
 
@@ -72,4 +72,3 @@ new TWTR.Widget({
     });
   });
 </script>
-
