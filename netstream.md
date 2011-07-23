@@ -62,7 +62,7 @@ new TWTR.Widget({
       $('#github-projects').append("\
 <li class='repo'>\
   <p>\
-	<a href='" + this.url + "'>" + this.name + "</a>\
+	<a href='" + this.html_url + "'>" + this.name + "</a>\
   <span class='desc'>"+this.description+"</span>\
 	</p>\
 </li>");
@@ -72,3 +72,11 @@ new TWTR.Widget({
     });
   });
 </script>
+
+
+## [spier @ stackoverflow](http://stackoverflow.com/users/365712/spier) 
+
+<a href="http://stackoverflow.com/users/365712/spier">
+<img src="http://stackoverflow.com/users/flair/365712.png" width="208" height="58" alt="profile for spier at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for spier at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+
