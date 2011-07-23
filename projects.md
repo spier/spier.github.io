@@ -5,7 +5,7 @@ title: "Code & Projects"
 
 # Code
 
-The majority of my code I have open-sourced can be found at my [github.com/spier](https://github.com/spier). Here I am also listing some of the more prominent code repositories.
+The majority of my code I have open-sourced can be found at [github.com/spier](https://github.com/spier). Here I am also listing some of the more prominent code repositories.
 
 <table id="cv" cellpadding="0" cellspacing="0">	
 	

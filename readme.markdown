@@ -4,26 +4,6 @@ This is a [Jekyll](http://github.com/mojombo/jekyll)-powered blog hosted on [Git
 
 So far this fork of [Zach Holman's blog](http://zachholman.com) follows the original fairly closely, with some minor modifications. I might change this one day if I find the time.
 
-# Plugins used
-
-## Jekyll Plugin: Sitemap.xml Generator
-https://github.com/kinnetica/jekyll-plugins
-
-## Delicious bookmarks
-https://github.com/christianhellsten/jekyll-plugins
-
-# ToDo
-
-## bunch of useful plugins
-https://github.com/josegonzalez/josediazgonzalez.com/tree/master/_plugins
-
-## this also includes a sitemap generater and some other category stuff
-http://recursive-design.com/projects/jekyll-plugins/
-
-## neat if I had more frequently used references
-Jekyll markdown references plugin by Olov Lassus
-https://gist.github.com/961336
-
 # Docs
 
 * [Jekyll](http://github.com/mojombo/jekyll)
