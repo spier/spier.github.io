@@ -10,7 +10,7 @@ This idea is sitting in my draft box for some time now. The idea I am proposing:
 
 So why did I get back to this idea just now? Today Mashey launched an interesting new offering called [Mashery I/O Docs][mashery_io], which they call "the next generation of API documentation". I recommend watching the introductory video over at their site. See below how I/O Docs looks like in action by the example of the [I/O Docs for the Klout API][]. I think it looks pretty neat, as they do a good job in bringing together the input parameters for the API calls with their corresponding documentation.
 
-## I/O Docs for the Klout API
+## [Mashery I/O Docs][mashery_io] for the Klout API
 
 ![Klout](/images/wizard_mashery.png)
 
