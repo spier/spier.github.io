@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I won the Springer API Challenge 1.0"
-categories: []
+categories: [springerquotes]
 ---
 
 It is official! I won the Springer API Challenge 1.0 with my pet project [Springer Quotes](http://springerquotes.heroku.com). Wohoooo!:)
