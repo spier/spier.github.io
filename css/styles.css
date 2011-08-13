@@ -167,6 +167,8 @@ h3{
   line-height: 1.4em;
   margin-bottom: 1em;
   color: #222;
+}
+#post ul li{
   list-style-type: square;
 }
 #post li code{
