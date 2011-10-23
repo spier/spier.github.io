@@ -27,6 +27,36 @@ Suggestion: In my mind a mixture of the advantages of [Apigee To-Go][apigee_togo
 
 ![Experiment with ioDocs for USA TODAY Articles API](/images/iodocs_usatoday.png "Experiment with ioDocs for USA TODAY Articles API")
 
+# Code snippet of the ioDocs configuration file
+
+{% highlight ruby %}
+
+"MethodName":"Search",
+"Synopsis":"",
+"HTTPMethod":"GET",
+"URI":"/articles",
+"RequiresOAuth":"N",
+"parameters":[
+   {
+			"Name":"encoding",
+			"Required":"N",
+			"Default":"json",
+			"Type":"enumerated",
+			"EnumeratedList":["json", "rss"],
+			"Description":"Format in which to return the results. Either 'json' or 'rss'."
+   },
+   {
+			"Name":"search",
+			"Required":"N",
+			"Default":"",
+			"Type":"",
+			"Description":"The search string."
+   },
+	 ...
+]
+
+{% endhighlight %}
+
 
 [mashery]: http://mashery.com
 [ioDocs]: http://developer.mashery.com/iodocs
