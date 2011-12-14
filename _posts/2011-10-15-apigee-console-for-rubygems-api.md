@@ -13,7 +13,7 @@ My choice fell on the [RubyGems.org API][]. I have not configured the console to
 
 # Console for the RubyGems.org API
 
-<iframe src="https://apigee.com/apigee_10_bbjeff/embed/console/rubygems" width="800" height="600"></iframe>
+<iframe src="https://apigee.com/apigee_10_bbjeff/embed/console/rubygemsprototype" width="800" height="600"></iframe>
 
 # How to create an Apigee To-Go Console
 
