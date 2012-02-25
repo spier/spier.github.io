@@ -4,7 +4,7 @@ title: "Guest Blog Post at PeerIndex"
 categories: [yql, writing]
 ---
 
-Recently I wrote a guest blog post for [PeerIndex][peerindex], titled [YQL-ing the PeerIndex API](http://bit.ly/oChnDX). It was a very interesting experience and it made me rethink why I like to write in general and specifically for the web. These are my thoughts on the topic of **producing content** for the WWW, driven by the example of the mentioned blog post.
+Recently I wrote a guest blog post for [PeerIndex][peerindex], titled [YQL-ing the PeerIndex API](http://blog.peerindex.com/yql-ing-the-peerindex-api). It was a very interesting experience and it made me rethink why I like to write in general and specifically for the web. These are my thoughts on the topic of **producing content** for the WWW, driven by the example of the mentioned blog post.
 
 ## Do something and talk about it
 
@@ -43,9 +43,8 @@ Give useful feedback to other people. Don't write "that's great" only. You can o
 So in summary. Do your thing. Talk about it. This is not for eternity, content comes and goes. Most importantly, don't worry about what other people might think about your content. If you are neither a [spammer](http://en.wikipedia.org/wiki/Spammer) nor a [troll][], then there is nothing to loose.
 
 
-
-[peerindex]: http://www.peerindex.net
+[peerindex]: http://www.peerindex.com
 [yql]: http://developer.yahoo.com/yql/
-[peerindex_api]: http://dev.peerindex.net
+[peerindex_api]: http://dev.peerindex.com
 [bitly_osazNn]: https://bitly.com/osazNn+
 [troll]: http://en.wikipedia.org/wiki/Troll_(Internet)
