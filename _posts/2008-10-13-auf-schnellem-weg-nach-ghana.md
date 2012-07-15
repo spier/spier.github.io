@@ -24,7 +24,6 @@ Mein Engagement bei der MEST läuft noch bis Ende Dezember. Danach habe ich scho
 
 Wer also wissen will, was "[Fufu][]" und "[Banku][]" sind, wie man in [Twi][] "Hallo" sagt, was, zur Hölle, ein "Trotro" ist und wie viele Kilo ein menschlicher Kopf wirklich tragen kann, der könnte sich als "Teaching Fellow" für das nächste Semester der MEST in Ghana [bewerben](http://www.meltwater.org/work-with-us/teaching-fellows/).
 
-
 [Fufu]: http://de.wikipedia.org/wiki/Fufu
 [Banku]: http://de.wikipedia.org/wiki/Banku
 [Twi]: http://de.wikipedia.org/wiki/Twi_(Sprache)
