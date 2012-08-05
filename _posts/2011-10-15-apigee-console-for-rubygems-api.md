@@ -34,5 +34,5 @@ From a developer perspective such a console is mainly useful when trying to find
 
 [apigee.com]: http://apigee.com/
 [apigee_togo]: http://apigee.com/about/products_togo.html
-[wadl]: wadl.java.net
+[wadl]: http://wadl.java.net
 [RubyGems.org API]: http://guides.rubygems.org/rubygems-org-api/

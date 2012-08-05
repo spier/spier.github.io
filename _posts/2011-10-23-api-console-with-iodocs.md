@@ -4,7 +4,7 @@ title: "API Console with ioDocs"
 categories: [api]
 ---
 
-Finally I had a chance to play around with [Mashery][mashery]'s [ioDocs][], which Mashery has [released](http://mashery.com/press/release/iodocs.html) open sourced some months back. ioDocs has a couple of prerequisites, namely Node.js, npm (Node package manager), and Redis (you can find full installation instructions on the [ioDocs github project][ioDocs_source]). Nevertheless, I struggled through the installation process, as I wanted to see how it compares with the [API Console from Apigee](http://spier.hu/2011/10/apigee-console-for-rubygems-api/) which I wrote about a week ago.
+Finally I had a chance to play around with [Mashery][mashery]'s [ioDocs][], which Mashery has [open sourced](http://mashery.com/press/release/iodocs.html) some months back. ioDocs has a couple of prerequisites, namely Node.js, npm (Node package manager), and Redis (you can find full installation instructions on the [ioDocs github project][ioDocs_source]). Nevertheless, I struggled through the installation process, as I wanted to see how it compares with the [API Console from Apigee](http://spier.hu/2011/10/apigee-console-for-rubygems-api/) which I wrote about a week ago.
 
 I chose the [USA TODAY Articles API](http://developer.usatoday.com/docs/read/articles) as my guinea pig for this experiment because just yesterday I [wrote a set of YQL tables](http://bit.ly/otN0XX) for that API, so I already knew the API documentation pretty well.
 
