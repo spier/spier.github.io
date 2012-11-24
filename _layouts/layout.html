@@ -7,6 +7,13 @@
   <meta name="author" content="{{ site.author }}" />
   <meta name="description" content="Writings, ideas, and random musings by {{ site.author }}." /> 
 
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:url" content="{{ site.base_url }}{{ page.url }}" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:description" content="{{ content | strip_html | truncatewords:30}}" />
+  <meta name="twitter:creator" content="@sebastianspier" />
+  <meta name="twitter:site" content="@sebastianspier" />
+
 	<link rel="icon" type="image/ico" href="{{ site.base_url }}/favicon.ico">
   <link rel="alternate" type="application/rss+xml" href="{{ site.feedburner_url }}" />
   <link rel="stylesheet" href="/css/styles.css" type="text/css" media="screen, projection" />
