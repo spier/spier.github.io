@@ -10,7 +10,7 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:url" content="{{ site.base_url }}{{ page.url }}" />
   <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:description" content="{{ content | strip_html | truncatewords:30}}" />
+  <meta name="twitter:description" content="{{ page.content | strip_html | truncate:200}}" />
   <meta name="twitter:creator" content="@sebastianspier" />
   <meta name="twitter:site" content="@sebastianspier" />
 
