@@ -6,7 +6,7 @@ categories: []
 
 One of the big German newspapers [ZEIT](http://www.zeit.de) has just launched the [ZEIT ONLINE Content-API](http://developer.zeit.de/index/). The API gives developers access to the metadata of ZEIT articles, ranging back to 1946.
 
-I am excited to see that a renowned newspapers as ZEIT has decided to start such an initiative. Even in the [international comparison](http://blog.programmableweb.com/2012/01/09/how-many-newspapers-have-an-api/) this is a bold step, as ZEIT is now the first German newspaper to have an API (corrections are welcome).
+I am excited to see that such a renowned newspapers is showing some guts by entering the API world. Even in the [international comparison](http://blog.programmableweb.com/2012/01/09/how-many-newspapers-have-an-api/) this is still an innovative step, as ZEIT is now the first German newspaper to have an API, if I am not mistaken.
 
 ## Alternative to the API Explorer
 
