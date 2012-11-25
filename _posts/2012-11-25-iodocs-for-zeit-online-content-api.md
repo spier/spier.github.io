@@ -6,7 +6,7 @@ categories: []
 
 One of the big German newspapers [ZEIT](http://www.zeit.de) has just launched the [ZEIT ONLINE Content-API](http://developer.zeit.de/index/). The API gives developers access to the metadata of ZEIT articles, ranging back to 1946.
 
-I am excited to see that such a renowned newspapers is showing some guts by entering the API world. Even in the [international comparison](http://blog.programmableweb.com/2012/01/09/how-many-newspapers-have-an-api/) this is still an innovative step, as ZEIT is now the first German newspaper to have an API, if I am not mistaken.
+I am excited to see that such a renowned newspaper is showing some guts by entering the API world. Even [globally](http://blog.programmableweb.com/2012/01/09/how-many-newspapers-have-an-api/), this is still an innovative step, as ZEIT is now the first German newspaper to have an API, if I am not mistaken.
 
 ## Alternative to the API Explorer
 
@@ -14,7 +14,7 @@ So what can I do?
 
 The API is still in beta, so it should be expected that some bugs still need to be ironed out. This is one of the many areas in which external developers can help to improve the API, by writing many small prototypes and hence identifying these bugs early on.
 
-ZEIT is providing an [API Explorer](http://developer.zeit.de/explorer/), which makes it easier for developers to test API calls. The problem is often that such an explorer (also known as API console) is maintained separately from the documentation of the API. Due to this separation, documentation and actual implementation of the API are often out of synch.
+ZEIT is providing an [API Explorer](http://developer.zeit.de/explorer/), which makes it easier for developers to test API calls. The problem is often that such an explorer (also known as API console) is maintained separately from the documentation of the API. Due to this separation, documentation and actual implementation of the API are often out of sync.
 
 Therefore I have implemented an alternative to the official API Explorer, based on [mashery's I/O Docs](http://www.mashery.com/product/io-docs). I/O Docs brings API documentation and API console closer together, and thereby mitigates the described risks of outdated documentation.
 
@@ -40,5 +40,5 @@ For the lack of a better place to post my comments about the API I am posting th
 
 Both from private explorations as well as from my work at [Meltwater](http://www.meltwater.com/) - who offers media monitoring solutions as well - I know that the relationship between content providers and companies that offer services around this content can be difficult.
 
-I hope that the ZEIT will make many good experiences based on their Content API, as this kind of openness will eventually benefit the API owner, the industry around it, and last but not least the content consumers i.e. readers. I am looking forward to the increased dialog between publishers and developers and all the good things that will come out of that.
+I hope that the ZEIT will make many good experiences based on their Content API, as this kind of openness will eventually benefit the API owner, the industry around it, and last but not least the content consumers i.e. readers. I am looking forward to the increased dialogue between publishers and developers and all the good things that will come out of that.
 
