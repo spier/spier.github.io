@@ -22,9 +22,9 @@ Take a look at the [I/O Docs for the ZEIT API](http://bit.ly/zeitapi-iodocs) and
 
 ![Zeit API i/o docs](/images/zeitapi-iodocs.png)
 
-## Some further comments on the ZEIT ONLINE Content API
+## Further comments
 
-For the lack of a better place to post my comments about the API I am posting them here.
+For the lack of a better place to post my comments about the API, I am posting them here.
 
 - the /content endpoint misses documentation for **sort** and **fq**
 - the /product/{id} endpoint misses documentation for the search parameters
@@ -38,7 +38,9 @@ For the lack of a better place to post my comments about the API I am posting th
 
 ## Conclusion
 
-Both from private explorations as well as from my work at [Meltwater](http://www.meltwater.com/) - who offers media monitoring solutions as well - I know that the relationship between content providers and companies that offer services around this content can be difficult.
+Both from private explorations as well as from my work at [Meltwater](http://www.meltwater.com/) - who among others offers [media monitoring solutions](http://www.meltwater.com/products/meltwater-news/) - I know that the relationship between content providers and companies that offer services around this content can be difficult.
 
-I hope that the ZEIT will make many good experiences based on their Content API, as this kind of openness will eventually benefit the API owner, the industry around it, and last but not least the content consumers i.e. readers. I am looking forward to the increased dialogue between publishers and developers and all the good things that will come out of that.
+Also for this reason I hope that the ZEIT will reap many benefits from launching their Content API. This kind of openness will eventually benefit the API owner, the industry around it, and last but not least the content consumers i.e. readers. I am looking forward to the increased dialogue between publishers and developers and all the good things that will come out of that.
+
+So, ZEIT ONLINE, good luck with the API :)
 
