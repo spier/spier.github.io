@@ -7,7 +7,9 @@ title: "About Sebastian Spier"
 
 I am 30-something German, with a passion for open source development, food, coding, people, basketball, and excellent coffee. Some of those passions work better in combination than others, while their prioritization changes by the time of the day. Unfortunately almost all are combinable with coffee, which makes me drink a lot of it :)
 
-I am working in the lovely city of [Budapest][] (Hungary) where I am leading the Research and Development team of [Meltwater Group][meltwater]. Our research objective is to explore and solve complex technology problems in the fields of information retrieval, natural language processing, big data, and sentiment detection, just to name a few. Our day to day work requires creative use of current technologies or early adoption of new paradigms which makes it a lot of fun!
+I am working in the lovely city of [Berlin][] where I am leading the development team for [Meltwater Press](), a Web-based media contact database and distribution tool that enables users to identify the most appropriate journalists for their media releases.
+
+Previously I worked in [Budapest][] (Hungary) where I set up the Research and Development team of [Meltwater Group][meltwater]. The research objective in Budapest was to explore and solve problems in the fields of information retrieval, natural language processing, big data, and sentiment detection. The required mix of creative use of current technologies and early adoption of new paradigms made this work a lot of fun too!
 
 This place on the web is quite obviously my own, so views expressed here are my own as well and have nothing to do with my employer.
 
@@ -18,7 +20,8 @@ The best way to contact me is [Twitter][].
 [Twitter]: http://twitter.com/sebastianspier
 [meltwater]: http://www.meltwater.com
 [Budapest]: http://maps.google.com/maps?q=Budapest&hl=en&sll=37.0625,-95.677068&sspn=56.112526,105.996094&t=h&z=11
-
+[Berlin]: http://en.wikipedia.org/wiki/Berlin
+[Meltwater Press]: http://www.meltwater.com/products/meltwater-press/
 
 # Some places I have been
 
