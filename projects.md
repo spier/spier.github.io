@@ -30,6 +30,8 @@ These are some of my pet projects. The purpose of most of them was to explore ne
 
 
 <table id="cv" cellpadding="0" cellspacing="0">	
+
+
 	<tr>
 		<td>
 			<a href="http://zeitly.herokuapp.com" target="_blank">
@@ -45,6 +47,27 @@ These are some of my pet projects. The purpose of most of them was to explore ne
 			How often have their articles been mentioned on Twitter, Facebook, etc?
 		</td>
 	</tr>	
+
+
+	<tr>
+		<td>
+			<a href="http://spier.hu/tesseract/" target="_blank">
+				<img class="noborder" src="/images/projects/tesseract_zugmonitor_s.png" alt=""></a>
+		</td>
+		<td>
+			<p>
+				<a href="http://spier.hu/tesseract/" target="_blank">Tesseract for Zugmonitor</a> (2012)
+			</p>
+
+			This demo applies the concept from 
+			<a href="http://square.github.com/tesseract/" target="_blank">Tesseract Airline on-time performance</a> 
+			to the train data of 
+			<a href="http://zugmonitor.sueddeutsche.de/" target="_blank">Zugmonitor</a>. Zugmonitor is an application that provides data about delays in the Germany Railways.
+			The coordinated visualizations (built with <a href="http://mbostock.github.com/d3/" target="_blank">D3</a>) show nearly 60,000 train connections from early 2012 (data courtesy of <a href="http://www.opendatacity.de/" target="_blank">OpenDataCity</a>). 
+
+		</td>
+	</tr>	
+
 
 
 	<tr>
