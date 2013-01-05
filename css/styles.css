@@ -90,9 +90,9 @@ h3{
 	text-align: center;
 }
 
-#header #logo{
+/*#header #logo{
 	text-align: center;
-}
+}*/
 
 #header .avatar{
 	border: 1px solid #fff;
@@ -137,7 +137,7 @@ h3{
   letter-spacing: 1px;
 }
 #header #sections{
-	margin-top:25px;
+	margin-top: 25px;
 /*  margin: 25px 0 0 -20px;*/
 }
 #header #sections div{
@@ -152,6 +152,18 @@ h3{
 }
 #header #sections a:hover{
   color: #ccc;
+}
+
+/* sharing functions in header */
+#header #functions {
+  margin-top: 25px; 
+}
+
+#header #functions * {
+  width:104px; 
+  height:23px; 
+  margin-right: auto; 
+  margin-left: auto;
 }
 
 
@@ -223,7 +235,7 @@ h3{
   font-style: normal;
 }
 
-/* 
+/*
  TALKS
 */
 
@@ -301,7 +313,7 @@ h3{
   margin: 1px 4px;
   border: 0;
   width: 36px;
-  height: 36px; 
+  height: 36px;
   display: inline !important;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
@@ -338,8 +350,8 @@ h3{
   font-weight: bold;
 }
 
-/* 
- 	CV TABLE 
+/*
+ 	CV TABLE
 */
 
 #cv {
@@ -406,8 +418,19 @@ h3{
 #feedback_buttons{
 	margin: 0;
 	padding: 0;
-	float:right; 
-	width:230px; 
+	float:right;
+	width:230px;
 /*	border:1px solid black;*/
+}
+
+
+img.noborder {
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 610px;
+  -webkit-border-radius: 0;
+  -webkit-box-shadow: none;
 }
 
