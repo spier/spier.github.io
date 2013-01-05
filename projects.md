@@ -5,7 +5,7 @@ title: "Code & Projects"
 
 # Code
 
-The majority of my code I have open-sourced can be found at [github.com/spier](https://github.com/spier). Here I am also listing some of the more prominent code repositories.
+The majority of my open-sourced code can be found at [github.com/spier](https://github.com/spier). Here I am only listing more prominent repositories.
 
 <table id="cv" cellpadding="0" cellspacing="0">	
 	
@@ -26,10 +26,27 @@ The majority of my code I have open-sourced can be found at [github.com/spier](h
 
 # Projects
 
-These are some of my pet projects. The purpose of most of them was to explore new technologies and learn new things. Some of them might not be online anymore at the time of viewing this page.
+These are some of my pet projects. The purpose of most of them was to explore new technologies. Some of them might not be online anymore at the time of viewing this page.
 
 
 <table id="cv" cellpadding="0" cellspacing="0">	
+	<tr>
+		<td>
+			<a href="http://zeitly.herokuapp.com" target="_blank">
+				<img class="noborder" src="/images/projects/zeitly_s.png" alt=""></a>
+		</td>
+		<td>
+			<p>
+				<a href="http://zeitly.herokuapp.com" target="_blank">Zeitly</a> (2012)
+			</p>
+
+			Weekend project that uses the <a href="http://developer.zeit.de/index" target="_blank">ZEIT ONLINE Contet API</a> to answer these questions:
+			Which authors haven written in which year for DIE ZEIT and ZEIT ONLINE?
+			How often where their articles mentioned on Twitter, Facebook, etc?
+		</td>
+	</tr>	
+
+
 	<tr>
 		<td>
 			<a href="http://springerquotes.heroku.com" target="_blank">
@@ -37,10 +54,10 @@ These are some of my pet projects. The purpose of most of them was to explore ne
 		</td>
 		<td>
 			<p>
-				<a href="http://springerquotes.heroku.com" target="_blank">Springer Quotes</a> (2011)
+				<a href="http://springerquotes.heroku.com" target="_blank">Springer Quotes</a> (2011-2012)
 			</p>
 			
-With this application I won the 1. Prize at the <a href="http://dev.springer.com">Springer API Challenge</a> in 2011. It was a great learning experience in terms of working with heroku, ruby, and the Springer API.
+			With this application I won the 1. Prize at the <a href="http://dev.springer.com">Springer API Challenge</a> in 2011. It was a great learning experience in terms of working with heroku, ruby, and the Springer API.
 
 			Springer Quotes let's you search more than 80 thousand articles from Springer's open access journals. When you find a particularly interesting article you can create quotes from paragraphs or individual sentences. These quotes can be used to point fellow resources to specific sections of articles or to reference these quotes within your own scientific work.
 		</td>
