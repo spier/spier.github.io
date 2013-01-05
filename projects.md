@@ -41,8 +41,8 @@ These are some of my pet projects. The purpose of most of them was to explore ne
 			</p>
 
 			Weekend project that uses the <a href="http://developer.zeit.de/index" target="_blank">ZEIT ONLINE Contet API</a> to answer these questions:
-			Which authors haven written in which year for DIE ZEIT and ZEIT ONLINE?
-			How often where their articles mentioned on Twitter, Facebook, etc?
+			Which authors haven written for DIE ZEIT and ZEIT ONLINE in which year?
+			How often have their articles been mentioned on Twitter, Facebook, etc?
 		</td>
 	</tr>	
 
