@@ -32,8 +32,8 @@ We offer two different positions, which are detailed below.
 - fluency in English is a must (German is beneficial but optional)
 - (optional) knowledge of agile development (Scrum)
 - (optional) web design
-- (optionally) experienced in at least one web application framework (e.g. Spring MVC, Ruby on Rails)
-- (optionally) knowledge of general SEO practices
+- (optional) experienced in at least one web application framework (e.g. Spring MVC, Ruby on Rails)
+- (optional) knowledge of general SEO practices
 - (optional) contribution to open source projects is a plus
 
 ## Backend Developer
@@ -46,7 +46,7 @@ We offer two different positions, which are detailed below.
 - experience with version control systems (preferably git)
 - fluency in English is a must (German is beneficial but optional)
 - experience with relational databases
-- (optionally) Scrum Master experience (a plus if you are applying for a Senior position)
+- (optional) Scrum Master experience (a plus if you are applying for a Senior position)
 - (optional) contribution to open source projects is a plus
 
 
