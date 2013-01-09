@@ -20,40 +20,39 @@ This opportunity will expose you to the following technologies and skills:
 
 The team will be headquartered in our office near [Oberbaumbrücke](http://goo.gl/maps/rI7bS) in Berlin, and collaborate closely with other teams in the US and Eastern Europe.
 
-We offer two different positions, which are detailed below.
+To learn more about Meltwater, also visit our company profiles on [Xing][], [LinkedIn][], [Facebook][], and [Twitter][].
 
+We offer the following two positions:
 
-## UI Developer
+## Frontend Developer
 
 - 4+ years professional experience (less if you are applying for a Junior position)
 - expert knowledge of the common modern web application technology stack (HTML, CSS, JavaScript, etc)
+- experienced in at least one web application framework (e.g. Spring MVC, Ruby on Rails)
 - knowledge of testing frameworks for UI testing
 - experience with version control systems (preferably git)
 - fluency in English is a must (German is beneficial but optional)
 - (optional) knowledge of agile development (Scrum)
-- (optional) web design
-- (optional) experienced in at least one web application framework (e.g. Spring MVC, Ruby on Rails)
 - (optional) knowledge of general SEO practices
 - (optional) contribution to open source projects is a plus
 
 ## Backend Developer
 
-- 4+ years professional experience (less if you are applying for a Junior position)
-- strong Java or Ruby on Rails programming skills to impress a team of outstanding developers
-- knowledge of Unit Testing frameworks
+- 4+ years professional experience
+- strong programming skills to impress a team of outstanding developers (Java, Ruby/RoR or others with a willingness to learn something new)
+- good knowledge of Unit Testing frameworks
 - general knowledge of the common web application technology stack (HTML, CSS, JavaScript, etc)
+- experience with relational databases and other storage systems
 - ability to work efficiently in a Linux/Unix based environments
-- experience with version control systems (preferably git)
-- fluency in English is a must (German is beneficial but optional)
-- experience with relational databases
-- (optional) Scrum Master experience (a plus if you are applying for a Senior position)
+- experience with version control systems (git in our case)
+- agile development experience (Scrum Master experience is a plus)
+- fluency in English (German is beneficial but optional)
 - (optional) contribution to open source projects is a plus
-
 
 ## Application
 
 If you are excited by this challenge, please send your application to:
-[sese.recruitment@meltwater.com](mailto:sese.recruitment@meltwater.com)
+[join.engineering@meltwater.com](mailto:sese.recruitment@meltwater.com)
 
 Please provide the following information:
 
@@ -68,5 +67,10 @@ Please provide the following information:
 The application period ends **January 31st, 2013**.
 
 We are looking forward to your application and to getting to know you.
+
+[Xing]: https://www.xing.com/companies/meltwaternewsdeutschlandgmbh
+[LinkedIn]: http://www.linkedin.com/company/meltwater-group
+[Facebook]: http://www.facebook.com/MeltwaterGroup
+[Twitter]: http://twitter.com/#!/meltwater
 
 
