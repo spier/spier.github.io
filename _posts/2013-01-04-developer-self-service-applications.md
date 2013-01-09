@@ -52,7 +52,7 @@ We offer the following two positions:
 ## Application
 
 If you are excited by this challenge, please send your application to:
-[join.engineering@meltwater.com](mailto:sese.recruitment@meltwater.com)
+[join.engineering@meltwater.com][]
 
 Please provide the following information:
 
@@ -72,5 +72,6 @@ We are looking forward to your application and to getting to know you.
 [LinkedIn]: http://www.linkedin.com/company/meltwater-group
 [Facebook]: http://www.facebook.com/MeltwaterGroup
 [Twitter]: http://twitter.com/#!/meltwater
+[join.engineering@meltwater.com]: mailto:join.engineering@meltwater.com
 
 
