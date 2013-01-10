@@ -154,6 +154,15 @@ h3{
   color: #ccc;
 }
 
+#header #sections ul {
+  margin: 0;
+  padding: 0;
+}
+#header #sections ul li {
+  list-style-type:none; 
+}
+
+
 /* sharing functions in header */
 #header #functions {
   margin-top: 25px; 
