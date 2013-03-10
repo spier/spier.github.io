@@ -10,7 +10,7 @@ These days I am reading the German book [Universalcode][] - "Journalismus im dig
 
 All in all it is a pretty interesting read. Especially for me, as I am dealing with online articles at work daily, so learning more about the creative process that goes into them is quite exciting.
 
-While I don't qualify to comment on the content on the book, I am a technologist, and therefore have a couple of ideas about how the digital edition of the book - which I bought - cought be improved.
+While I don't qualify to comment on the content on the book, I am a technologist, and therefore have a couple of ideas about how the digital edition of the book - which I bought - could be improved.
 
 
 ## Do not use bol.de for ebooks
@@ -36,9 +36,9 @@ Now to the technical review of the digital version of this book:
 
 ## Summary
 
-The digital version of this book costs about 20 EUR. Almost too much, when what I am getting is more like a PDF with list of artices.
+The digital version of this book costs about 20 EUR. Almost too much, when what I am getting is more like a PDF with a list of articles.
 
-My recommendation: Practise what you preach! Take the digital version of this book, and make it an example of great digital publishing!
+My recommendation: Practice what you preach! Take the digital version of this book, and make it an example of great digital publishing!
 
 I just saw that there is a crowdfunding initiative with the working title [Universalcode 2][] - a potential success of this book. Maybe some of these hints here are helpful for that as well. 
 
