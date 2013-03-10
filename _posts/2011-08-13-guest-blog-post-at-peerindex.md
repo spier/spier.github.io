@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guest Blog Post at PeerIndex"
-categories: [yql, writing]
+categories: [yql]
 ---
 
 Recently I wrote a guest blog post for [PeerIndex][peerindex], titled [YQL-ing the PeerIndex API](http://blog.peerindex.com/yql-ing-the-peerindex-api). It was a very interesting experience and it made me rethink why I like to write in general and specifically for the web. These are my thoughts on the topic of **producing content** for the WWW, driven by the example of the mentioned blog post.

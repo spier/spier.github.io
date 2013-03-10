@@ -28,9 +28,9 @@ task :new do
   end
 end
 
-desc "Startup Jekyll"
-task :start do
+desc "Startup Jekyll and preview blog"
+task :preview do
   sh "jekyll --server"
 end
 
-task :default => :start
+task :default => :preview
