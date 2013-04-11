@@ -11,8 +11,7 @@ TL;DR Jump to the [demo of the anabin Meta-API][demo] :)
 ## What is anabin?
 
 If you want to hire candidates from outside of Germany for the German labor market, different rules apply for the Visa process depending on the country of origin. If the candidate comes from outside of the EU, one option is to apply for the so called [Blue Card][]. One of the requirements for this card is, that the candidate needs a degree from a German university, or from an accredited foreign university. 
-
-{% img right /images/blue_card_sample.jpg 300 Sample Blue Card Germany %}
+![Sample Blue Card Germany](/images/blue_card_sample.jpg)
 
 To find out, if the university has been accredited you can use the [University Database anabin][anabin]. anabin, which has been [built over a period of 10 years](http://anabin.kmk.org/service/ueber-anabin.html), contains information from around 180 countries, 25 institutions, and 22.000 university degrees.
 
