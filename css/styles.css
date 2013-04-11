@@ -433,7 +433,7 @@ h3{
 }
 
 
-img.noborder {
+#post img.noborder {
   display: block;
   margin-top: 10px;
   margin-left: auto;
@@ -441,5 +441,11 @@ img.noborder {
   max-width: 610px;
   -webkit-border-radius: 0;
   -webkit-box-shadow: none;
+}
+
+#post img.right {
+  float: right;
+  margin-left: 1.5em !important;
+  box-sizing: border-box;
 }
 
