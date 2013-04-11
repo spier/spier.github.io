@@ -75,12 +75,12 @@ Essentially this is what I did:
 * added a user friendly API documentation (using the great [swagger-ui][])
 * hosting it on [heroku][], so that everybody can access it easily
 
-So go ahead and check out the [demo of the Meta-API][demo] :)
+So go ahead and check out the [demo of the Meta-API][demo].
 
 <a href="http://anabin-api.herokuapp.com" target="_blank">
 <img class="noborder" src="/images/anabin-meta-api-swagger.png" alt="anabin meta API" /></a>
 
-While doing this I also converted the JSON structure into a bit more meaningful form, by add more verbose identifiers.
+While doing this I also converted the JSON structure into a bit more meaningful form, by adding more verbose identifiers.
 
 {% highlight json %}
 {
