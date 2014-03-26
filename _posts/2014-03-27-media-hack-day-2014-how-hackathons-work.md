@@ -47,7 +47,7 @@ Other teams had already formed before the event. Some of them were even travelin
 
 When participating in such an event, lots of data about the teams and participants is created. Plenty of pictures are taken, videos are filmed, sometimes even interviews with individual participants are made. One thing that the organizers should do - which was missed at the Media Hack Day as well - was to inform all participants what the material will be used for.
 
-Just because a developer is signing up for a hackathon, it doesn't mean that he wants to see his picture in any material used for marketing purposes of the hackathon organizer or the API partners. Again, full disclosure in this regards would help a lot. From talking to the camera man at the event it seems that this type of announcement was plannend but I cannot recall it. (In case I was just tired and missed it, sorry :))
+Just because a developer is signing up for a hackathon, it doesn't mean that he wants to see his picture in any material used for marketing purposes of the hackathon organizer or the API partners. Again, full disclosure in this regards would help a lot. From talking to the camera man at the event it seems that this type of announcement was planned but I cannot recall it. (In case I was just tired and missed it, sorry :))
 
 ![Media Hack Day 2014](/images/mhd_wall.jpg)
 
