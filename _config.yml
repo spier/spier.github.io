@@ -1,22 +1,25 @@
+# --------------------------------
+# standard jekyll configs
+# --------------------------------
+
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:title
-auto: true
 rdiscount:
   extensions: [smart]
 paginate: 10
 
+baseurl: http://spier.hu
 
-# -----------------
-# my own config variables. 
-# -----------------
-    
-# the trailing slash is needed
-# base_url: http://spier.github.com/
-base_url: http://spier.hu
+# --------------------------------
+# my own config variables
+# --------------------------------
 
 # URL to atom feed (registered at feedburner.com)
 feedburner_url: http://feeds.feedburner.com/spier
 
 # name of the author
 author: Sebastian Spier
+
+gems:
+  - jekyll-sitemap
