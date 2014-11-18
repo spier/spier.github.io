@@ -3,13 +3,11 @@
 # --------------------------------
 
 markdown: rdiscount
-pygments: true
+highlighter: pygments
 permalink: /:year/:month/:title
 rdiscount:
   extensions: [smart]
 paginate: 10
-
-baseurl: http://spier.hu
 
 # --------------------------------
 # my own config variables
@@ -23,3 +21,8 @@ author: Sebastian Spier
 
 gems:
   - jekyll-sitemap
+  - jemoji
+
+# I can also try github favoured markdown
+# kramdown:
+  # input: GFM
