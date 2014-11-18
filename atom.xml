@@ -4,10 +4,10 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  <title>Sebastian Spier</title>
- <link href="{{ site.baseurl }}/atom.xml" rel="self"/>
- <link href="{{ site.baseurl }}"/>
+ <link href="{{ site.url_root }}/atom.xml" rel="self"/>
+ <link href="{{ site.url_root }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.baseurl }}</id>
+ <id>{{ site.url_root }}</id>
  <author>
    <name>Sebastian Spier</name>
  </author>
@@ -15,9 +15,9 @@ layout: null
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
-   <link href="{{ site.baseurl }}{{ post.url }}"/>
+   <link href="{{ site.url_root }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.baseurl }}{{ post.id }}</id>
+   <id>{{ site.url_root }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}

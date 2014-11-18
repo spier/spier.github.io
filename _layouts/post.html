@@ -15,7 +15,7 @@ layout: layout
 			<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 			<!-- G+ -->
 			<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-			<g:plusone size="standard" href="{{ site.baseurl }}{{ page.url }}/"></g:plusone>
+			<g:plusone size="standard" href="{{ site.url_root }}{{ page.url }}/"></g:plusone>
 		</div>
 
     <h3>Twitter Reactions</h3>
@@ -34,8 +34,8 @@ layout: layout
 	    // The following are highly recommended additional parameters. Remove the slashes in front to use.
 	    //var disqus_identifier = 'unique_dynamic_id_1234';
 	    // var disqus_url = 'http://example.com/permalink-to-page.html';
-			var disqus_identifier = "{{ site.baseurl }}{{ page.url }}/";
-			var disqus_url = "{{ site.baseurl }}{{ page.url }}/";
+			var disqus_identifier = "{{ site.url_root }}{{ page.url }}/";
+			var disqus_url = "{{ site.url_root }}{{ page.url }}/";
 
 	    /* * * DON'T EDIT BELOW THIS LINE * * */
 	    (function() {

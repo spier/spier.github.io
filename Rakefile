@@ -32,7 +32,6 @@ end
 
 desc "Startup Jekyll in local mode"
 task :start do
-  # sh "jekyll serve --drafts --watch --trace --baseurl ''" #
   sh "jekyll serve --watch --trace --config _config.yml,_config-dev.yml"
 end
 

@@ -212,6 +212,14 @@ h3{
   max-width: 650px !important;
   -webkit-box-shadow: none;
 }
+
+#post img.emoji{
+  display: inline;
+  -webkit-border-radius: 0;
+  -webkit-box-shadow: none;  
+}
+
+
 #post .authoring{
   padding-left: 3px;
   font-size: 14px;

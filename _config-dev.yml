@@ -1,2 +1,3 @@
 show_drafts: true
-baseurl: ""
+
+url_root: http://spier.hu
