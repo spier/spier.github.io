@@ -16,9 +16,7 @@ As I have been working in this industry for a couple of years now, and feel stro
 
 So here 6 good reasons to study computer science:
 
-1. **Financing your studies** yourself is doable. There are many student jobs that you can do, even while still in your undergrads. Especially once you have your first programming experiences, many companies have jobs that you can apply for.
-
-1. **Working abroad is easy!** You need to speak English, and you are pretty much good to go. In the EU you can travel freely, and fairly easy get the necessary papers to work in any of the EU countries. Non-EU citizens can get a blue card, given that they have a degree of higher education. Even getting a working visa in the US is doable, although that takes a bit more effort from what I hear. 
+1. **Working abroad is easy!** You need to speak English, and you are pretty much good to go. In the EU you can travel freely, and fairly easy get the necessary papers to work in any of the EU countries. Non-EU citizens can get a blue card, given that they have a degree of higher education. Even getting a working visa in the US is doable, although that takes a bit more effort from what I hear.
 
 1. Teams are **intercultural by default**. There are more jobs than applicants, and working abroad is fairly easy as mentioned before. Hence companies often consider a wider audience of applicants than in other professions. It is common to work in teams where pretty much every colleague represents another nation. That adds a lot of energy to the team dynamics. :smile:
 
@@ -26,13 +24,15 @@ So here 6 good reasons to study computer science:
 
 1. **Working from everywhere** is not a far fetched illusion in the IT field. Some companies go as far as making office work entirely optional, although I personally don’t consider that an efficient approach. In any case, working remotely for a couple of days here and there usually isn’t a problem in most bigger companies.
 
-1. Software is still a **young and developing profession** and you have many opportunities to actively shape this industry. Contribute to open source projects, organize conferences, and work in your local communities. Want to use your skills to find other ways to make a difference and do something good? There is an abundance different ways to do that.
+1. Software is still a **young and developing profession** and you have many opportunities to actively shape this industry. Contribute to open source projects, organize conferences, and work in your local communities. Want to use your skills to find other ways to make a difference and do something good? There is an abundance of ways to do that.
 
-Excited yet? You should be! Talk to teachers, doctors, and people in other professions. In the IT industry you are uniquely positioned in many different ways!. One last thing: It ain’t only about programming! Really, it ain't! So if you have an interest in this field, you should get more information and explore the different opportunities that it offers.
+1. **Financing your studies** yourself is doable. There are many student jobs that you can do, even while still in your undergrads. Especially once you have your first programming experiences, many companies have jobs that you can apply for.
+
+Excited yet? You should be! Talk to teachers, doctors, and people in other professions and I believe you will find that the IT industry is uniquely positioned in many different ways! One last thing: It ain’t only about programming! Really, it ain't! So if you have an interest in this field, you should get more information and explore the different opportunities that it offers.
 
 ## References
 
-In Germany there is an initiative called "[Informatik studieren](http://www.informatik-studieren.de)" (German for "study informatics") that aims to motivate more students to study computer science. If you are an experienced IT professional, consider contributing a bit of your time by becoming an ambassador for this initiative.
+In Germany there is an initiative called "[Informatik studieren](http://www.informatik-studieren.de)" that aims to motivate more students to study computer science. If you are an experienced IT professional, consider contributing a bit of your time by becoming an ambassador for this initiative.
 
 Image Credit:
-https://www.flickr.com/photos/woolamaloo_gazette/6238597508/
+Commodore PET computer [woolamaloo_gazette @ flickr](https://www.flickr.com/photos/woolamaloo_gazette/6238597508/)
