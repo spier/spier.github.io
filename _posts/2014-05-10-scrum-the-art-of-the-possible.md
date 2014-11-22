@@ -10,7 +10,7 @@ If you can only do one thing, watch the video [Agile Product Ownership in a Nuts
 
 Below you see the city of trees that we built during our two sprints at a ScrumMaster training. Impressive, huh? :-)
 
-![Building a city in the trees with Scrum](/images/scrum_treecity.jpg)
+![Building a city in the trees with Scrum]({{ site.url_root }}/images/scrum_treecity.jpg)
 
 ## ScrumMaster training
 
@@ -28,13 +28,13 @@ I am collecting bullet points of what I found most interesting, as I don't have 
 
 ## Practices
 
-- The Scrum framework consists of 
+- The Scrum framework consists of
   - 3 roles (product owner, scrum master, development team)
   - 3 artifacts (product backlog, sprint backlog, burndown chart)
   - 3 ceremonies (sprint planning, daily scrum, sprint review & retrospective)
 - The ScrumMaster focuses on the efficiency of the team, not the usefulness of the product
 - The backlog is the product of the continuous conversation between Scrum Team and stakeholders
-- Items in the backlog have different granularity. Sometimes the granularity of the stories is expressed by different names like User Stories < Epics < Themes. 
+- Items in the backlog have different granularity. Sometimes the granularity of the stories is expressed by different names like User Stories < Epics < Themes.
 - Depending on the main focus of the story, sometimes we differentiate between
   - Feature Stories
   - Technical User Story
@@ -47,7 +47,7 @@ I am collecting bullet points of what I found most interesting, as I don't have 
   - Emergent (continuous / not planned)
   - Ordered
 - A user story needs to be integrated across the whole application layer, as it
-  - Forces the team to work together cross functionally. 
+  - Forces the team to work together cross functionally.
   - Prevents mocking of functionality.
   - Identifies risks earlier
 

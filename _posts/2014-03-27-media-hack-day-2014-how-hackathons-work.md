@@ -6,7 +6,7 @@ categories: []
 
 I recently attended [Media Hack Day 2014][mhd2014] at the [Axel Springer Plug & Play Accelerator][pnp] in Berlin. During the event a couple of interesting ideas were proposed and prototyped. You can find all of them, including the app that my team worked on, at the [hackerleague site][hl].
 
-![Media Hack Day 2014](/images/mhd_screen.jpg)
+![Media Hack Day 2014]({{ site.url_root }}/images/mhd_screen.jpg)
 
 It was a great location, good catering, well planned by the organizes and a pretty competitive crowd. So all in all a successful hackathon I believe, although I am not sure what qualifies a successful event from the perspective of the organizer.
 
@@ -21,7 +21,7 @@ As the majority of participants at hackathons tends to be developers, and not pe
 
 One possible improvement would be to have presentations by more domain experts at the beginning of a hackathon, to foster a greater amount of direct exchange between both sides, and a more focused ideation process.
 
-![Media Hack Day 2014](/images/mhd_catering.jpg)
+![Media Hack Day 2014]({{ site.url_root }}/images/mhd_catering.jpg)
 
 ## Partners, Agendas, Full Disclosure
 
@@ -49,7 +49,7 @@ When participating in such an event, lots of data about the teams and participan
 
 Just because a developer is signing up for a hackathon, it doesn't mean that he wants to see his picture in any material used for marketing purposes of the hackathon organizer or the API partners. Again, full disclosure in this regards would help a lot. From talking to the camera man at the event it seems that this type of announcement was planned but I cannot recall it. (In case I was just tired and missed it, sorry :))
 
-![Media Hack Day 2014](/images/mhd_wall.jpg)
+![Media Hack Day 2014]({{ site.url_root }}/images/mhd_wall.jpg)
 
 
 ## Summary
@@ -60,7 +60,7 @@ With that in mind, and the fact that most people attending a hackathon should be
 
 I am looking forward to attend more such event. I am also interested to hear what experiences other participants of Media Hack Day 2014 or other hackathons have made. Please leave a comment below if you would like to share your thoughts.
 
-![Media Hack Day 2014](/images/mhd_roof_inverted.jpg)
+![Media Hack Day 2014]({{ site.url_root }}/images/mhd_roof_inverted.jpg)
 
 [mhd2014]: http://mediahackday.com
 [pnp]: http://www.axelspringerplugandplay.com

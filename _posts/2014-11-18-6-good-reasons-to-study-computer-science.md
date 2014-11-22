@@ -4,7 +4,7 @@ title: "6 good reasons to study computer science"
 categories: []
 ---
 
-<img src="/images/code2.jpg" style="float: right; margin-left:20px; height:260px;">
+<img src="{{ site.url_root }}/images/code2.jpg" style="float: right; margin-left:20px; height:260px;">
 
 *Software development is a great profession! One way to get a sound footing in this field is a major in computer science. Unfortunately there are various biases against both the profession and the major which is why there are way too few freshman. Therefore I am making the case for new ways to pitch the software development profession and with that motivate students to study computer science.*
 
