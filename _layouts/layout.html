@@ -14,8 +14,11 @@
   <meta name="twitter:description" content="{{ page.content | markdownify | strip_html | truncate:190}} ({{ page.content | number_of_words }} words)" />
   <meta name="twitter:creator" content="@sebastianspier" />
   <meta name="twitter:site" content="@sebastianspier" />
+  {% if page.image %}
+  <meta name="twitter:image" content="{{ site.url_root }}{{ page.image }}" />
+  {% endif %}
 
-	<link rel="icon" type="image/ico" href="{{ site.url_root }}/favicon.ico">
+  <link rel="icon" type="image/ico" href="{{ site.url_root }}/favicon.ico">
   <link rel="alternate" type="application/rss+xml" href="{{ site.feedburner_url }}" />
   <link rel="stylesheet" href="/css/styles.css" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
@@ -30,7 +33,6 @@
   </script>
 
 	<!-- loading emphasis -->
-	<!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script> -->
 	<script type="text/javascript" src="/javascript/emphasis-src.js"></script>
 </head>
 <body>

@@ -2,6 +2,7 @@
 layout: post
 title: "6 good reasons to study computer science"
 categories: []
+image: /images/code2.jpg
 ---
 
 <img src="{{ site.url_root }}/images/code2.jpg" style="float: right; margin-left:20px; height:260px;">
