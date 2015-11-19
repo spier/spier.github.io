@@ -2,13 +2,14 @@
 layout: post
 title: "Every Product Company needs Corporate Innovation Days!"
 categories: []
+image: /images/innovation-chalkboard.jpg
 ---
 
 I am part of a small team that organizes a company internal innovation event for our 100+ man strong development organization. I have been part of this so called Innovation Day (iDay) from the very beginning, therefore I want to share how such an event can impact the culture of a company.
 
 > **TL;DR** If you are a product company, developing any type of custom software, and you don’t have an event that taps into the creativity of your engineers: Change that today! It is worth every penny!
 
-![](/images/innovation-chalkboard.jpg)
+![Every Product Company needs Corporate Innovation Days](/images/innovation-chalkboard.jpg)
 
 ## Innovation Day Setup
 
