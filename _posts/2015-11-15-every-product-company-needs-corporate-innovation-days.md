@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Everybody Product Company needs Corporate Innovation Days!"
+title: "Every Product Company needs Corporate Innovation Days!"
 categories: []
 ---
 
@@ -19,7 +19,7 @@ We kept the concept both simple and open:
 * work on a project of your own liking for 1 day (the projects typically still end up at least somewhat related to the domain in which our company operates)
 * submit your project if you feel you have something worthwhile submitting (otherwise you can also continue on the next iDay)
 * share the projects with the whole organization for public voting. this determines the overall 'winner' of the event
-* next to the public voting, a jury picks a couple of projects in different categories e.g. *biggerst productivity improvement*, or *most flashy UI*
+* next to the public voting, a jury picks a couple of projects in different categories e.g. *biggest productivity improvement*, or *most flashy UI*
 
 By design, we took every single iDay as an experiment. Much like in the agile development paradigm, we used the retrospective learnings from each event, to make the next event better, more fulfilling for the participants, and more beneficial for the company.
 
@@ -33,7 +33,7 @@ Many engineers were experimenting with internal APIs and tools unrelated to thei
 
 **Communication and collaboration.** We saw increased discussions between Engineering and Sales about projects coming out of iDay. New collaborations started within Engineering because people from different teams were now working on the same project for a day. The communication between Engineering and Product benefitted from these events as well, because both teams could discuss new ideas independent of any organizational boundaries.
 
-**Engineering efficiency** got a boost from our iDay activities too. Tools were developed to better align the development guidelines across teams, to get more out of our communication tools (hipchat bot anybody?), or to inspect the internal data structures of our Search Engine.
+**Engineering efficiency** got a boost from our iDay activities too. Tools were developed to better align the development guidelines across teams, to get more out of our communication tools (HipChat bot anybody?), or to inspect the internal data structures of our Search Engine.
 
 **Culture and Fun.** iDays have helped to bring our teams together in a fun, shared global experience. They even had some ripple effects into other departments, which also started to experiment with similar concepts.
 
@@ -45,7 +45,7 @@ I would be very happy to hear about your experiences with similar concepts at yo
 
 
 
-Poto credit: [Missy Schmidt - Innovation chalkboard](https://www.flickr.com/photos/hamptonroadspartnership/5351622529/in/photolist-99UsVX-jG7N41-9YeFZb-8rgt6g-dnf1dp-GFPQG-yCLzTp-8z476d-c2iCA-cudfXE-8mAPA3-arwdEA-oEdSAd-NyLdP-64bJFy-m1AVzc-tcaTdM-fPzLfG-fPxgdG-fPf3HF-fP8nx5-fNZfZw-fNFnwZ-fNFndp-fNFn5K-fNAW3B-7pqdLo-7s1Rf5-fNTupY-hJwAag-rKxUQS-9AsTM3-oCdSNJ-9Fnidv-cudes3-8mw7NB-oG1mFX-qNSvCx-qukmC2-8eKnR1-hcQKUZ-CWBqU-rygeHG-ct2Gyw-99UsZc-dJpCje-dJv5of-bCMXtc-vQU9H2-mwTFDm)
+Photo credit: [Missy Schmidt - Innovation chalkboard](https://www.flickr.com/photos/hamptonroadspartnership/5351622529/in/photolist-99UsVX-jG7N41-9YeFZb-8rgt6g-dnf1dp-GFPQG-yCLzTp-8z476d-c2iCA-cudfXE-8mAPA3-arwdEA-oEdSAd-NyLdP-64bJFy-m1AVzc-tcaTdM-fPzLfG-fPxgdG-fPf3HF-fP8nx5-fNZfZw-fNFnwZ-fNFndp-fNFn5K-fNAW3B-7pqdLo-7s1Rf5-fNTupY-hJwAag-rKxUQS-9AsTM3-oCdSNJ-9Fnidv-cudes3-8mw7NB-oG1mFX-qNSvCx-qukmC2-8eKnR1-hcQKUZ-CWBqU-rygeHG-ct2Gyw-99UsZc-dJpCje-dJv5of-bCMXtc-vQU9H2-mwTFDm)
 
 
 
