@@ -43,13 +43,23 @@ hr{
 .related li{
   font-size: 14px;
   list-style: none;
-  padding: 5px 0px;
+  padding: 8px 0px;
   margin: 0;
   color: #777;
-  border-bottom: 1px solid #eee;
+  /*border-bottom: 1px solid #eee;*/
 }
-.related li span{
+.related li span.title{
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+}
+.related li span.date{
   float: right;
+  text-transform: uppercase;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+  color: rgba(0,0,0,0.2);
+  line-height: 24px;
 }
 .related a{
   text-decoration: none;
