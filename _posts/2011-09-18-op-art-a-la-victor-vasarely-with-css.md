@@ -12,14 +12,14 @@ Besides being impressed by his art, seeing his pictures made me wonder if it wou
 
 The pattern-like structure reminded me of the tool [patternify.com](http://www.patternify.com) which I had seen previously but not tried out. With patternify I managed to create the [below CSS code](http://ptrn.it/mQal0f), which creates the following pattern.
 
-{% highlight html %}
+```html
 <div 
 	style="
 	margin: auto; 
 	width:220px; height:260px;
 	background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAIElEQVQYGWNkYGD4D8TYACOyIBMyBx97KCjE5/7BIgcApGEBDCu0cukAAAAASUVORK5CYII=) repeat;">
 </div>
-{% endhighlight %}
+```
 
 <div class="myDiv" style="margin: auto; width:220px; height:260px; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAIElEQVQYGWNkYGD4D8TYACOyIBMyBx97KCjE5/7BIgcApGEBDCu0cukAAAAASUVORK5CYII=) repeat;">
 </div>
@@ -35,4 +35,3 @@ For some additional inspiration, here you can see more of [Vasarely's art in bla
 
 
 [vasarely_bw]: http://www.google.com/search?q=Vasarely&hl=de&biw=1657&bih=894&tbs=isc:black,ic:gray&tbm=isch&prmd=ivns&source=lnt&sa=X&ei=cWn-TfP5H4fIswb8jt3yDQ&ved=0CBUQpwUoAg
-

@@ -17,12 +17,11 @@ So get yourself a [PeerIndex API key](http://dev.peerindex.net/) and then [try i
 
 A sample YQL query for PeerIndex looks like this:
 
-{% highlight sql %}
+```sql
 // enter your API key here !!!
 SET api_key="YOUR_API_KEY" ON peerindex;
 SELECT * FROM peerindex.profile WHERE id='sebastianspier';
-{% endhighlight %}
-
+```
 
 # [Klout][klout]
 
@@ -32,12 +31,11 @@ So get yourself a [Klout API key](http://developer.klout.com/) and then [try it 
 
 A sample YQL query for Klout looks like this:
 
-{% highlight sql %}
+```sql
 // enter your API key here !!!
 SET api_key="YOUR_API_KEY" ON klout;
 SELECT * FROM klout.user.show WHERE users='sebastianspier'
-{% endhighlight %}
-
+```
 
 # [Topsy][topsy] 
 
@@ -47,10 +45,9 @@ Topsy does not require an API key, so you can [try it out in the YQL Console](ht
 
 A sample YQL query for PeerIndex looks like this:
 
-{% highlight sql %}
+```sql
 SELECT * FROM topsy.authorinfo WHERE url="http://twitter.com/barackobama"
-{% endhighlight %}
-
+```
 
 # Contributing to the [YQL Community][yql_open_data_tables]
 

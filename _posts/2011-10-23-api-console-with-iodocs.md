@@ -29,8 +29,7 @@ Suggestion: In my mind a mixture of the advantages of [Apigee To-Go][apigee_togo
 
 # Code snippet of the ioDocs configuration file
 
-{% highlight ruby %}
-
+```ruby
 "MethodName":"Search",
 "Synopsis":"",
 "HTTPMethod":"GET",
@@ -54,8 +53,7 @@ Suggestion: In my mind a mixture of the advantages of [Apigee To-Go][apigee_togo
    },
 	 ...
 ]
-
-{% endhighlight %}
+```
 
 
 [mashery]: http://mashery.com

@@ -1,8 +1,8 @@
 body{
-	font-family: Georgia, serif;
-	margin: 0;
-	margin-top: 30px;
-	-webkit-font-smoothing: antialiased;
+  font-family: Georgia, serif;
+  margin: 0;
+  margin-top: 30px;
+  -webkit-font-smoothing: antialiased;
 }
 
 a{
@@ -191,10 +191,11 @@ h3{
   border-bottom: 1px solid #eee;
 }
 #post ul{
-  font-size: 15px;
+  font-size: 18px;
   margin: 20px 20px 20px 0;
 }
 #post li{
+  font-size: 18px;
   line-height: 1.4em;
   margin-bottom: 1em;
   color: #222;

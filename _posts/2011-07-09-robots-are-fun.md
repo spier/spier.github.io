@@ -39,7 +39,7 @@ Did you see [ROBOHASH](http://robohash.org/)? I found them on Twitter, where els
 
 Hello Mr. Robot! Check the source code of this page for the full code. The main JavaScript needed is this: 
 
-{% highlight javascript %}
+```javascript
 $('div#post p').each(function(index) {
 	// only every second paragraph gets a robot
 	if (index % 2 == 0) {
@@ -60,7 +60,7 @@ $('div#post p').each(function(index) {
 		$(this).append("<img src='" + img_url  + "' title='" + img_alt_text + "'/>");
 	}
 });
-{% endhighlight %}
+```
 
 So now you will see a new set of robots appear every time you reload this page. Try it out. (Actually what you see is a random tuple out of 27 possible permutations to be more precise but this is just nerd talk.)
 

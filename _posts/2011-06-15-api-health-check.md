@@ -16,7 +16,7 @@ One could implement a test suite, much like a continuous integration test, that 
 
 Building that into the YQL table DTD would result in something like this:
 
-{% highlight xml %}
+```xml
 <meta>
 	...
 	<sampleQuery>
@@ -24,7 +24,7 @@ Building that into the YQL table DTD would result in something like this:
 		<expectedResult>SOME_JSON_STRING_HERE</expectedResult>
 	</sampleQuery>
 </meta>
-{% endhighlight %}
+```
 
 # Challenges
 

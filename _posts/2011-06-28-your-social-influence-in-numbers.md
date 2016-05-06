@@ -29,7 +29,7 @@ Klout - with their confident tag line "the Standard for Influence" - claims to m
 
 The dataset returned by the Klout API looks like this:
 
-{% highlight xml %}
+```xml
 <klout>
     <twitter_id>96320763</twitter_id>
     <twitter_screen_name>sebastianspier</twitter_screen_name>
@@ -48,9 +48,7 @@ The dataset returned by the Klout API looks like this:
         <delta_5day>0.87</delta_5day>
     </score>
 </klout>
-{% endhighlight %}
-
-
+```
 
 ##[PeerIndex][peerindex]
 
@@ -66,7 +64,7 @@ According to the [PeerIndex documentation][] they use these metrics in order to 
 
 The dataset returned by the PeerIndex API looks like this:
 
-{% highlight xml %}
+```xml
 <peerindex>
     <name>Sebastian Spier</name>
     <twitter>sebastianspier</twitter>
@@ -80,8 +78,7 @@ The dataset returned by the PeerIndex API looks like this:
     <topics>universal mobile telecommunications system</topics>
     <topics>science</topics>
 </peerindex>
-{% endhighlight %}
-
+```
 
 ## Topsy
 
@@ -100,7 +97,7 @@ Besides their search service, I found the analytics functionality most interesti
 
 The dataset returned by the Topsy API when querying their *authorinfo* endpoint looks like this:
 
-{% highlight xml %}
+```xml
 <topsy>
     <name>Sebastian Spier</name>
     <url>http://twitter.com/sebastianspier</url>
@@ -112,8 +109,7 @@ Learning by doing!</description>
     <topsy_author_url>http://topsy.com/twitter/sebastianspier</topsy_author_url>
     <influence_level>0</influence_level>
 </topsy>
-{% endhighlight %}
-
+```
 
 ## Tweet Grader
 

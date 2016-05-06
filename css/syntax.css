@@ -1,3 +1,17 @@
+code, pre {
+  color: #333;
+  font-family: Menlo, Monaco, 'Andale Mono', 'lucida console', 'Courier New', monospace !important !default;
+  font-size: 0.8rem;
+  line-height: 1.45em;
+}
+
+pre {
+  background: #f8f8f8;
+  border: 1px solid #e5e5e5;
+  padding: 8px 15px;
+  overflow-x: auto;
+}
+
 .highlight {
   margin: 0;
   background-color: #eee;

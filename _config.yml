@@ -2,12 +2,15 @@
 # standard jekyll configs
 # --------------------------------
 
-markdown: rdiscount
-highlighter: pygments
 permalink: /:year/:month/:title
-rdiscount:
-  extensions: [smart]
 paginate: 10
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
 
 # --------------------------------
 # my own config variables
@@ -21,6 +24,7 @@ author: Sebastian Spier
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
   - jemoji
 
 # I can also try github favoured markdown
@@ -28,3 +32,4 @@ gems:
   # input: GFM
 
 url_root: http://spier.hu
+

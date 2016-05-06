@@ -28,16 +28,16 @@ While browsing the database, I noticed a couple of things:
 
 While anabin has no official API, it has a site search that uses AJAX calls to dynamically pull new content from the backend to populate the search results table. For example if you search for **London**, the following AJAX call is triggered.
 
-{% highlight bash %}
+```bash
 http://anabin.kmk.org/index.php
 ?eID=user_anabin_institutionen&conf=institutionsergebnisliste
 &sEcho=20&iColumns=13&iDisplayStart=0&iDisplayLength=10
 &bRegex=false&iSortingCols=1&iSortCol_0=2&sSortDir_0=asc&s1=London&iDataIds=1
-{% endhighlight %}
+```
 
 The JSON structure returned by this AJAX call looks like this:
 
-{% highlight json %}
+```json
 {
   "iTotalDisplayRecords": 56,
   "iTotalRecords": 27765,
@@ -61,8 +61,7 @@ The JSON structure returned by this AJAX call looks like this:
     ...
   ]
 }
-{% endhighlight %}
-
+```
 
 
 ## Building a Meta-API
@@ -82,7 +81,7 @@ So go ahead and check out the [demo of the Meta-API][demo].
 
 While doing this I also converted the JSON structure into a bit more meaningful form, by adding more verbose identifiers.
 
-{% highlight json %}
+```json
 {
   "uid": "6714",
   "name": "Goldsmiths College / University of London",
@@ -99,7 +98,7 @@ While doing this I also converted the JSON structure into a bit more meaningful 
     "3"
   ]
 }
-{% endhighlight %}
+```
 
 
 ## Integration of anabin into other services
