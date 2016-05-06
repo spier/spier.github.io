@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6 good reasons to study computer science"
+title: "6 Good Reasons to Study Computer Science"
 categories: []
 image: /images/code2.jpg
 ---
