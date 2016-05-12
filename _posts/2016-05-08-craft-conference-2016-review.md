@@ -20,11 +20,11 @@ Some of my notes might not make sense out of context, so continue at your own ri
 ![Craft Conference 2016](/images/craft2016/craft-park.jpg)
 
 
-# Great Product Team, Successful Product (closing keynote)
+# Great Product Team, Successful Product (closing keynote day 1)
 
 [Marty Cagan](https://twitter.com/cagan) (Silicon Valley Product Group)
 
-[Craft Profile](http://beta.craft-conf.com/speaker/MartyCagan) (closing keynote day 1)
+[Craft Profile](http://beta.craft-conf.com/speaker/MartyCagan),
 [Slides](http://www.svpg.com/product-success),
 [Video](http://www.ustream.tv/recorded/86159035)
 
@@ -159,7 +159,7 @@ One more instructive comment for me was that each microservice should contain pa
 [Michael (Doc) Norton](https://twitter.com/DocOnDev) (CTO2)
 
 [Craft Profile](http://beta.craft-conf.com/speaker/DocNorton),
-Slides (cto2@sendyourslides.com / TechnicalDebt),
+[Slides](https://speakerdeck.com/docondev/the-technical-debt-trap) (further references from cto2@sendyourslides.com / TechnicalDebt),
 [Video](http://www.ustream.tv/recorded/86180723)
 
 Doc Norton, one of the better known names in the conference circuit, gave a presentation about how to deal with evolving code bases.
@@ -226,7 +226,7 @@ Know that you are not the only customer of your monitoring. Find the others and 
 [Yao Yue](https://twitter.com/thinkingfish) (Twitter)
 
 [Craft Profile](http://beta.craft-conf.com/speaker/YaoYue),
-Slides (not published as of May 8th),
+[Slides](http://twitter.github.io/pelikan/talks/craft-2016/),
 [Video](http://www.ustream.tv/recorded/86184979)
 
 Yao talked about a case study at Twitter but while doing that also explored general principles of writing and re-writing software. Her overall approach is that software should be modified by *evolution, not revolution*.
