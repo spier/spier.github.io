@@ -61,7 +61,7 @@ And lastly a couple of references:
 
 [Craft Profile](http://beta.craft-conf.com/speaker/JohnAllspaw),
 Slides (not published as of May 8th),
-Video (not published as of May 8th),
+[Video](http://www.ustream.tv/recorded/86966452)
 
 John took a highly data-driven approach in analysing what happens while we work as a software developer. How do we debug problems? What works, and what doesn’t? How do we learn from this?
 
