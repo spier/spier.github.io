@@ -120,7 +120,7 @@ Most noteworthy for me, he mentioned that measuring "proxy metrics" can negative
 
 [Craft Profile](http://beta.craft-conf.com/speaker/SamNewman),
 [Slides](http://www.slideshare.net/spnewman/deploying-and-scaling-microservices),
-Video (not published as of May 8th)
+[Video](http://www.ustream.tv/recorded/87127615)
 
 Sam gave an overview talk, starting from artifacts and how you might build them and ending with deployment platforms for containers. It suspect that for people will experience in container deployment, this talk didn't have much new. However as an overview talk into the topic I found it helpful. 
 
