@@ -22,14 +22,15 @@ feedburner_url: http://feeds.feedburner.com/spier
 # name of the author
 author: Sebastian Spier
 
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
+# see https://help.github.com/en/articles/configuring-jekyll-plugins
+plugins:
+  - jekyll-paginate # default plugin
+  - jekyll-sitemap # optional plugin
+  - jemoji # optional plugin
+  - jekyll-seo-tag # optional plugin
 
 # I can also try github favoured markdown
 # kramdown:
   # input: GFM
 
 url_root: http://spier.hu
-

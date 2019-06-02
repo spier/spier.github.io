@@ -6,6 +6,10 @@ layout: layout
   <div id="post">
     {% include post_header.html %}
     {{ content }}
+
+    {% if page.canonical_url != nil %}
+      {% include post_original_reference.html %}
+    {% endif %}
   </div>
 
   <div id="boastful">

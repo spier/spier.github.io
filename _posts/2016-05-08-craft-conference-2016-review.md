@@ -67,7 +67,7 @@ John took a highly data-driven approach in analysing what happens while we work 
 
 > Not everything that counts, can be counted. Not everything that can be counted, counts. (John Allspaw)
 
-The overall point he was trying to get across:  We need more people to explore what actually happens (below the cover) when we build software. More people need to write books about this topic! 
+The overall point he was trying to get across:  We need more people to explore what actually happens (below the cover) when we build software. More people need to write books about this topic!
 
 His many references included:
 
@@ -122,7 +122,7 @@ Most noteworthy for me, he mentioned that measuring "proxy metrics" can negative
 [Slides](http://www.slideshare.net/spnewman/deploying-and-scaling-microservices),
 Video (not published as of May 8th)
 
-Sam gave an overview talk, starting from artifacts and how you might build them and ending with deployment platforms for containers. It suspect that for people will experience in container deployment, this talk didn't have much new. However as an overview talk into the topic I found it helpful. 
+Sam gave an overview talk, starting from artifacts and how you might build them and ending with deployment platforms for containers. It suspect that for people will experience in container deployment, this talk didn't have much new. However as an overview talk into the topic I found it helpful.
 
 He reviewed different techniques of artifact creation, along these 4 guiding principles:
 
@@ -134,7 +134,7 @@ He reviewed different techniques of artifact creation, along these 4 guiding pri
 According to Sam the vendor lock-in of the deployment platforms is not that big of a problem, as the decision of where you run mesos or kubernetes is yours. (amazon ECS, Windows Azure, google cloud, …).
 
 Some of the relevant technologies to read up on in this field are: [Docker](https://www.docker.com/), [mesos](http://mesos.apache.org/), [kubernetes](http://kubernetes.io/)
-   
+
 
 # Architecture without architects
 
@@ -142,7 +142,7 @@ Some of the relevant technologies to read up on in this field are: [Docker](http
 
 [Craft Profile Martin Fowler](http://beta.craft-conf.com/speaker/MartinFowler),
 [Craft Profile Erik Dörnenburg](http://beta.craft-conf.com/speaker/ErikDornenburg),
-Slides (not published as of May 8th), 
+Slides (not published as of May 8th),
 [Video](http://www.ustream.tv/recorded/86152575)
 
 After their talk I didn't necessarily have an answer to how to achieve "architecture without architects" but they certainly provided interesting stimuli. Martin and Erik view the role of an *architect as somebody that improves other developers*, and not somebody that draws diagrams.
@@ -234,4 +234,3 @@ Yao talked about a case study at Twitter but while doing that also explored gene
 She finds it dangerous to aim for a *better solution*. According to her *we cannot always afford ‘better’. Do good first, then make it better.*
 
 Yao also mentioned that their team would not have been able to design pelikan, without first using all the other technologies that pelikan is abstracting from. So in short, you cannot shortcut the learnings that need to be made. Damn!
-
