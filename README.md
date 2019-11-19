@@ -1,12 +1,13 @@
-# spier.github.io
+# spier.hu (spier.github.io)
 
-This is a [Jekyll][]-powered blog hosted on [GitHub Pages](http://pages.github.com/) for [spier.github.io][]. 
+This is a [Jekyll][]-powered blog hosted on [GitHub Pages][] for [spier.github.io][] (redirected from [spier.hu][]).
 
-So far this fork of [Zach Holman's blog](http://zachholman.com) follows the original fairly closely, with some minor modifications. I might change this one day if I find the time.
+This blog started from a fork of [Zach Holman's blog](http://zachholman.com) (thanks Zach, all the power to open source). I have kept the design of the blog pretty bare-bones, to focus on the content.
 
 # Docs
 
 * [Jekyll][]
+* [GitHub Pages][]
 * [Liquid for Designers](https://github.com/shopify/liquid/wiki/liquid-for-designers)
 
 # License
@@ -16,5 +17,7 @@ The following directories and their contents are Copyright of Sebastian Spier. Y
 * _posts/
 * images/
 
-[Jekyll]: http://github.com/mojombo/jekyll
+[Jekyll]: https://jekyllrb.com/
 [spier.github.io]: http://spier.github.io
+[spier.hu]: https://spier.hu
+[GitHub Pages]: http://pages.github.com/
