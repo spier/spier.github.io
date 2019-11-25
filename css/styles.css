@@ -169,19 +169,19 @@ h3{
   padding: 0;
 }
 #header #sections ul li {
-  list-style-type:none; 
+  list-style-type:none;
 }
 
 
 /* sharing functions in header */
 #header #functions {
-  margin-top: 25px; 
+  margin-top: 25px;
 }
 
 #header #functions * {
-  width:104px; 
-  height:23px; 
-  margin-right: auto; 
+  width:104px;
+  height:23px;
+  margin-right: auto;
   margin-left: auto;
 }
 
@@ -223,11 +223,15 @@ h3{
   max-width: 650px !important;
   -webkit-box-shadow: none;
 }
+#post img.no-border{
+  -webkit-border-radius: 0px;
+  -webkit-box-shadow: none;
+}
 
 #post img.emoji{
   display: inline;
   -webkit-border-radius: 0;
-  -webkit-box-shadow: none;  
+  -webkit-box-shadow: none;
 }
 
 
@@ -467,4 +471,3 @@ h3{
   margin-left: 1.5em !important;
   box-sizing: border-box;
 }
-
