@@ -12,7 +12,7 @@ This post shares the tech stack we use, and the editing process we apply when re
 
 <!-- more -->
 
-# The Tech Stack of our Blog
+## The Tech Stack of our Blog
 
 For our Engineering blog [underthehood.meltwater.com][uth] we went a bit nerdy. We chose [jekyll][jekyll] and [GitHub Pages][ghpages] as our platform. More on the pros and cons of that choice shortly.
 
@@ -23,7 +23,7 @@ More about the stack:
 * **Hosting**: [GitHub Pages][ghpages] for hosting the static content. It supports jekyll out of the box, and allows us to host our blog without any additional costs.
 * DNS setup to serve the blog at underthehood.meltwater.com
 
-## Pros and Cons of the Tech Stack
+### Pros and Cons of the Tech Stack
 
 As a pro our blog loads fast, and is highly available at negligible cost. Getting the same speed and uptime with any CMS rendering the blog dynamically, and involving a database for content storage, would be a lot more work and certainly more expensive.
 
@@ -36,7 +36,7 @@ However this can be a gatekeeper for colleagues in Product/UX or other functions
 <a href="https://underthehood.meltwater.com">
 	<img class="center no-border" src="/images/uth-snapshot-2019-11-19.jpg" title="underthehood.meltwater.com"></a>
 
-# Editing and Publishing Process
+## Editing and Publishing Process
 
 Our approach is simple. We are not the New York Times, so small mistakes are acceptable! :)
 
@@ -54,7 +54,7 @@ Additionally Google Docs is well known by everybody in our Product & Engineering
 
 However for the authors that don't know the markdown format, this also means that somebody has to do the Google Doc to markdown conversion for them. No problem though, as I wrote [docx2gfm][docx2gfm], a little tool that makes this conversion faster.
 
-# Starting your own Engineering Blog
+## Starting your own Engineering Blog
 
 Some developers are already maintaining their personal development blogs. This is great but they often fall short on content, as you can see on my own [spier.hu][spier.hu] blog. :) So if you are an engineer, why not write a post on your company's Engineering blog about the topics of your day-to-day work?
 
