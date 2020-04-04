@@ -38,7 +38,7 @@ Other notes from this talk that need further unpacking (for me):
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/F0SmiQ3SF6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Great talk by [Bertrand Delacretaz][bertrand-delacretaz] to convince developers of the benefits of contribution to Open Source. Focused on what the individual developer will get out of it for their personal development.
+[Bertrand Delacretaz][bertrand-delacretaz] convinces us of the benefits of contributing to Open Source. His talk is focused on what the individual developer will get out of Open Source for their personal development.
 
 In short, Open Source contributions lead to:
 
@@ -46,7 +46,7 @@ In short, Open Source contributions lead to:
 - Better Communicators (collaborate asynchronously in low emotional bandwidth environments)
 - Better Persons (working in multi-cultural environments and “traveling the world”)
 
-This talk was a great teaser to motivate developers to invest time in Open Source development. Also the delivery was fantastic!
+Great teaser to motivate developers to invest time in Open Source development. Also the delivery by Bertrand was fantastic!
 
 ### Blending Open Source and Corporate Values
 
@@ -56,7 +56,9 @@ The speaker [Cornelius Schumacher][cornelius] presented how they are bringing an
 
 It was fascinating to see the collaboration problems one has to solve when working in a slightly older business domain, but also in a larger group of companies.
 
-One key recommendation: Call it InnerSource, as that does not sound threatening to business people. For more on that also see [innersourcecommons.org][innersourcecommons.org].
+One key recommendation: 
+
+> Call it InnerSource! That does not sound threatening to business people. -- see [innersourcecommons.org][innersourcecommons.org]
 
 ### A community-driven approach towards open innovation for research communication
 
