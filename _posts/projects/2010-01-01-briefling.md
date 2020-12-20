@@ -2,7 +2,7 @@
 layout: post
 title: "Briefling"
 categories: [project]
-project_year: 2010-now
+project_year: 2010-2016
 project_link: http://briefling.de
 project_image: /images/projects/briefling_s.png
 ---

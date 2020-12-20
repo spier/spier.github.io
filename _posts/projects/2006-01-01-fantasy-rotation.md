@@ -2,7 +2,7 @@
 layout: post
 title: "FANtasy Rotation"
 categories: [project]
-project_year: 2006-now
+project_year: 2006-2016
 project_link: http://fantasy-rotation.de
 project_image: /images/projects/fantasy_rotation_s.png
 ---
