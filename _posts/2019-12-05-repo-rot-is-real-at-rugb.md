@@ -2,7 +2,6 @@
 layout: post
 title: "Repo-Rot is Real at RUG::B"
 categories: [conference]
-image: /images/isc-summit-apac-2020-title.jpg
 ---
 
 I gave a presentation at the December 2019 Meetup of [RUG::B](https://www.rug-b.de/events/december-meetup-2019-575) (the Ruby User Group Berlin).
@@ -13,7 +12,7 @@ I help to maintain a GitHub org of 350 engineers and 3100 repos. Often I wonder:
 
 The longer a team exists, the more software components and repos they tend to have. How do you know, which of those are actively maintained, and which ones are not (they are rotting)?
 
-This talk explored what I call "repo rot", which effect it has on your team/company, and what you can do about it. 
+This talk explored what I call "repo rot", which effect it has on your team/company, and what you can do about it.
 
 I also described an experiment that I ran with my teams, and what we learned from it.
 
