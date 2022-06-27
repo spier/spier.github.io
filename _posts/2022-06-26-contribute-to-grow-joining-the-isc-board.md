@@ -2,7 +2,7 @@
 layout: post
 title: "Contribute to Grow: Joining the Board of the InnerSource Commons"
 categories: [ISC, Board, open source]
-image: /images/isc-summit-apac-2020-title.jpg
+image: /images/2022-06-26-contribute-to-grow/2022-05-new-board-and-officers.png
 ---
 
 In 2022 I am serving on the [Board](https://innersourcecommons.org/about/announcements/2022-05-new-board-and-officers/) of the [InnerSource Commons Foundation](https://innersourcecommons.org). Thank you to the Members of the Foundation who voted for me! I appreciate your trust and will do my best to move this community forward.
