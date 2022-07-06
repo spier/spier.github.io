@@ -71,7 +71,7 @@ Shortly after I was invited to the Patterns Working Group as a [Trusted Committe
 
 ### Member: Promoting InnerSource
 
-Communities have a small amount (~[1%](https://en.wikipedia.org/wiki/1%25_rule)) of people that are contribute a lot. This is also true for the InnerSource Commons and the Patterns Working Group. But how to change that?
+Communities have a small amount (~[1%](https://en.wikipedia.org/wiki/1%25_rule)) of people that contribute a lot. This is also true for the InnerSource Commons and the Patterns Working Group. But how to change that?
 
 <a href="https://spier.hu/2020/12/level-up-your-innersource-through-patterns"><img class="right" src="/images/2022-06-26-contribute-to-grow/apac-summit-2020-level-up-through-patterns.jpeg" title="" width="260"></a>
 
