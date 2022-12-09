@@ -17,7 +17,7 @@ You can also find my professional profile on [LinkedIn][].
 
 ## Credits
 
-GitHub, Twitter, and RSS icons by [Flaticon][]
+Social icons by [Flaticon][]
 
 [cake and coffee]: http://www.germany.info/Vertretung/usa/en/04__W__t__G/01/11__Kaffee__Kuchen/11__Kaffee__Kuchen__S.html
 [Berlin]: http://en.wikipedia.org/wiki/Berlin
