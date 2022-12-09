@@ -4,25 +4,20 @@ jQuery(document).ready(function($){
     $('#mousing').text("GitHub");
   });
 
-  $('#github').mouseout(function(){
-    $('#mousing').html("&nbsp;");
-  });
-
   $('#twitter').mouseover(function(){
     $('#mousing').text("Twitter");
   });
 
-  $('#twitter').mouseout(function(){
-    $('#mousing').html("&nbsp;");
+  $('#mastodon').mouseover(function(){
+    $('#mousing').text("Mastodon");
   });
 
   $('#rss').mouseover(function(){
     $('#mousing').text("RSS");
   });
 
-  $('#rss').mouseout(function(){
+  $('.social-button').mouseout(function(){
     $('#mousing').html("&nbsp;");
   });
-
 
 });
