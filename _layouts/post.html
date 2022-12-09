@@ -18,7 +18,6 @@ layout: layout
 		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 	</div>
 
-
 	<!--
 		disqus comments
 	-->
@@ -29,19 +28,17 @@ layout: layout
 
 			//var disqus_developer = 1;
 
-	    // The following are highly recommended additional parameters. Remove the slashes in front to use.
-	    //var disqus_identifier = 'unique_dynamic_id_1234';
-	    // var disqus_url = 'http://example.com/permalink-to-page.html';
-			var disqus_identifier = "{{ site.url_root }}{{ page.url }}/";
-			var disqus_url = "{{ site.url_root }}{{ page.url }}/";
+	    // The following are highly recommended additional parameters.
+		var disqus_identifier = "{{ site.url_root }}{{ page.url }}/";
+		var disqus_url = "{{ site.url_root }}{{ page.url }}/";
 
 	    /* * * DON'T EDIT BELOW THIS LINE * * */
 	    (function() {
 	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-	        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+	        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
 	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 	    })();
 	</script>
-	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 </div>
