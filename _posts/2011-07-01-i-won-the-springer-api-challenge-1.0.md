@@ -26,7 +26,7 @@ In addition, these are the great technologies and open source libraries that I h
 	<li><a href="http://www.mathjax.org">MathJax</a> for beautifying mathematic formulas</li>
 	<li><a href="http://imakewebthings.github.com/jquery-waypoints/sticky-elements/">'Sticky'</a> buttons at the top of the article</li>	
 	<li><a href="http://nicolasgallagher.com/pure-css-speech-bubbles/">Pure CSS speech bubbles</a> for the nice speech bubbles you see on the /quotes page</li>
-	<li><a href="http://jquery.com">jQuery</a> as my JavaScript library of choice</a></li>
+	<li><a href="http://jquery.com">jQuery</a> as my JavaScript library of choice</li>
 </ul>
 
 Open Source Software is the thing! Build it, use it, contribute to it!
